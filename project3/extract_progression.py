@@ -353,26 +353,11 @@ def main():
 
     pdf_path = "./data/progression Tle F&BT.pdf"
     lecons = extract_progression(pdf_path)
-    
-    out_json = Path(pdf_path).with_suffix(".json")
-    out_json.write_text(
-        json.dumps([asdict(l) for l in lecons], ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
 
-    n_basse_confiance = sum(1 for l in lecons if l.confiance == "basse")
-    n_duree_manquante = sum(1 for l in lecons if l.duree_h is None and l.type_contenu not in ("vacances",))
+    print(f"Extraction terminée : {len(lecons)} leçons extraites.")
+    print("Exemple de leçon extraite :", asdict(lecons[0]) if lecons else "Aucune leçon")
 
-    print(f"{len(lecons)} entrées extraites -> {out_json}")
-    print(f"  dont {n_basse_confiance} à confiance BASSE (superposition de texte détectée - à corriger manuellement)")
-    print(f"  dont {n_duree_manquante} sans durée détectée (à vérifier)")
-
-    if n_basse_confiance:
-        print("\nLignes à vérifier manuellement :")
-        for l in lecons:
-            if l.confiance == "basse":
-                print(f"  - [{l.semaine}] chapitre='{l.chapitre}' | leçon='{l.lecon}'")
-
+    store_in_chroma(lecons, collection_name='progression_tle_f_bt', persist_dir="./chroma_db")
 
 
 

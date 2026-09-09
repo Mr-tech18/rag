@@ -8,7 +8,10 @@ Ceci réutilise la collection Chroma peuplée par extract_progression.py.
 
 import chromadb
 from sentence_transformers import SentenceTransformer
+from groq import Groq
+from decouple import config
 
+groq_client = Groq(api_key=config("GROQ_API_KEY"))
 
 def get_scope_for_question(
     question_eleve: str,
@@ -74,16 +77,27 @@ RÈGLES :
 # ---------------------------------------------------------------------------
 
 def demo():
+    question_eleve = "Comment calculer le module d'un nombre complexe ?"
     scope = get_scope_for_question(
-        question_eleve="Comment calculer le module d'un nombre complexe ?",
+        question_eleve=question_eleve,
         classe="Terminale F/BT",
         collection_name="progression_tle_f_bt",
     )
     system_prompt = build_system_prompt(scope, classe="Terminale F/BT")
     print(system_prompt)
 
-    # -> Ensuite, envoie system_prompt + la question de l'élève à Groq/LLM
-    # comme messages[0] = {"role": "system", "content": system_prompt}
+    response=groq_client.chat.completions.create(
+        model="openai/gpt-oss-120b",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {
+                "role": "user",
+                "content": question_eleve,
+            } 
+        
+        ]
+    )
+    print("Generated response:", response.choices[0].message.content)
 
 
 if __name__ == "__main__":
