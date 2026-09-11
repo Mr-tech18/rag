@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "L’épreuve comporte trois exercices et un problème, le tout sur",
+        "bbox": [
+            70,
+            180,
+            563,
+            198
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXERCICE 1 (3,25 points)",
+        "text_level": 2,
+        "bbox": [
+            71,
+            196,
+            303,
+            215
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soit à résoudre le système : $\\left\\{ \\begin{array} { l l } { x = \\sqrt { 2 y + 3 } } \\\\ { y = \\sqrt { 2 z + 3 } } \\\\ { z = \\sqrt { 2 x + 3 } } \\end{array} \\right.$ où x, y et z sont des nombres réels.",
+        "bbox": [
+            68,
+            214,
+            766,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Première approche : série E uniquement.",
+        "bbox": [
+            93,
+            277,
+            482,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(a) Montrer que le triplet $\\left( 3 , 3 , 3 \\right)$ est une solution de ce système. [0,25pt]",
+        "bbox": [
+            125,
+            303,
+            888,
+            323
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(b) Montrer que si le triplet $( x , y , z )$ est une solution de ce système, on ne peut pas avoir $x < 3$ [1,25pt]",
+        "bbox": [
+            125,
+            327,
+            887,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(c) Montrer que si le triplet $\\left( x , y , z \\right)$ est une solution de ce système, on ne peut pas avoir $x > 3 .$ [1,25pt]",
+        "bbox": [
+            127,
+            369,
+            887,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(d) Déduire alors l’ensemble solution de ce système. [0,5pt]",
+        "bbox": [
+            125,
+            411,
+            887,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Deuxième approche : série C uniquement",
+        "text_level": 2,
+        "bbox": [
+            93,
+            435,
+            491,
+            455
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(a) Montrer que si le triplet $\\left( x , y , z \\right)$ est solution de ce système, alors x, y et z sont solutions de l’équation : [1,25pt]",
+        "bbox": [
+            125,
+            462,
+            888,
+            500
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8c24fa5e4c276aa6539f1de491a14601972ef400ff557abf9588af83b4f6a509.jpg",
+        "text": "$$\nt ^ { 8 } - 1 2 t ^ { 6 } + 3 0 t ^ { 4 } + 3 6 t ^ { 2 } - 1 2 8 t - 1 8 3 = 0 .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            346,
+            511,
+            699,
+            532
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(b) En déduire les valeurs rationnelles de x, y et z. [2pts]",
+        "bbox": [
+            125,
+            550,
+            887,
+            570
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXERCICE 2 (3 points)",
+        "text_level": 2,
+        "bbox": [
+            70,
+            574,
+            279,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "– On dit que deux suites $\\left( u _ { n } \\right)$ et $\\left( v _ { n } \\right)$ sont dites adjacentes lorsque : l’une est croissante, l’autre décroissate et $u _ { n } - v _ { n }$ tend vers 0 quand n tend vers +∞.",
+        "bbox": [
+            68,
+            592,
+            830,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\- Si $\\left( u _ { n } \\right)$ et $\\left( v _ { n } \\right)$ sont deux suites adjacentes telles que $\\left( u _ { n } \\right)$ est croissante et $\\left( v _ { n } \\right)$ est décroissante, alors pour tout n $\\in \\mathbb { N } , u _ { n } \\le v _ { n }$",
+        "bbox": [
+            70,
+            628,
+            795,
+            667
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Compléter les phrase ci-après avec le mot qui convient :",
+        "bbox": [
+            91,
+            674,
+            606,
+            694
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(a) Toute suite croissante et majorée est ........ ........... [0,25pt]",
+        "bbox": [
+            125,
+            696,
+            887,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(b) Toute suite décroissante et . .. . .. . ... . .. . .. est convergente [0,25pt]",
+        "bbox": [
+            125,
+            722,
+            887,
+            742
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Indiquer si la proposition ci-après est vraie ou fausse et proposer une démonstration pour la réponse indiquée : « Deux suite adjacentes sont convergentes et elles ont la même limite ». [1,5pt]",
+        "bbox": [
+            91,
+            746,
+            888,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. Relier en justifiant votre choix la courbe (C) de la colone (I) à la courbe $( C ^ { \\prime } )$ de la colonne (II).",
+        "bbox": [
+            91,
+            805,
+            828,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXERCICE 3 (3,75 points)",
+        "text_level": 2,
+        "bbox": [
+            70,
+            851,
+            303,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On désigne par $\\mathcal { L } ( \\mathbb { R } ^ { 2 } )$ , la famille des endomorphismes $f _ { \\lambda }$ de $\\mathbb { R } ^ { 2 }$ dont la matrice $M _ { \\lambda }$ relativement à la base canonique $\\left( \\imath , \\jmath \\right)$ de $\\mathbb { R } ^ { 2 }$ est de la forme $\\left( \\begin{array} { c c } { { - 1 + \\lambda } } & { { 1 + \\lambda } } \\\\ { { \\lambda ( 1 - \\lambda ) } } & { { \\lambda } } \\end{array} \\right)$ où λ est un réel.",
+        "bbox": [
+            68,
+            868,
+            879,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. A quelle conditions sur $\\lambda , f _ { \\lambda }$ est-il un automorphisme?",
+        "bbox": [
+            93,
+            946,
+            602,
+            968
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Ministère des Enseignements Secondaires Office du Baccalauréat du Cameroun",
+        "bbox": [
+            58,
+            58,
+            462,
+            94
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Examen : Baccalauréat 2015 Série : C-E Épreuve : Mathématiques Durée : 4h Coefficient : 5C/4E",
+        "bbox": [
+            635,
+            41,
+            905,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Une boîte Ω contient 5 boules numérotées $- 2 , - 1 , 0 , 1$ et $^ { 2 , }$ toutes indiscernables au toucher. On tire au hasard successivement et sans remise deux boules de Ω et on note $\\left( p , q \\right)$ le couple de numéros obtenus.",
+        "bbox": [
+            93,
+            90,
+            861,
+            145
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On désigne par X l’aléa numérique qui à tout couple $\\left( p , q \\right)$ associe la valeur :",
+        "bbox": [
+            117,
+            145,
+            787,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "– —2 si aucun des $f _ { p }$ et $f _ { q }$ n’est un automorphisme ;",
+        "bbox": [
+            117,
+            164,
+            573,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "– 1 si un seul parmi $f _ { p } \\operatorname { e t } f _ { q }$ est un automorphisme;",
+        "bbox": [
+            117,
+            183,
+            573,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "– 3 si les deux $f _ { p }$ et $f _ { q }$ sont des automorphismes.",
+        "bbox": [
+            117,
+            200,
+            547,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Déterminer la loi de probabilité de X.",
+        "bbox": [
+            127,
+            229,
+            490,
+            248
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b) Calculer l’espérance et l’écart-type de X.",
+        "bbox": [
+            125,
+            252,
+            516,
+            272
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Déterminer une équation cartésienne du noyau et de l’image de $f _ { - 2 }$",
+        "bbox": [
+            93,
+            282,
+            712,
+            301
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Soit g l’application linéaire définie de $\\mathbb { R } ^ { 2 }$ dans $\\mathbb { R } ^ { 2 }$ par $g ( x , y ) = { \\frac { 1 } { 2 } } \\left( - x + 3 y ; { \\frac { 1 } { 2 } } x + y \\right)$ ·8 appartient-elle à $\\mathcal { L } ( \\mathbb { R } ^ { 2 } )$ ? Justifier.",
+        "bbox": [
+            93,
+            306,
+            877,
+            364
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROBLEME",
+        "text_level": 2,
+        "bbox": [
+            70,
+            367,
+            187,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PARTIE A : (3,75 points)",
+        "text_level": 2,
+        "bbox": [
+            70,
+            387,
+            290,
+            404
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Le plan complexe est muni d’un repère orthonormé direct $\\left( \\mathrm { O } , \\vec { u } , \\vec { v } \\right)$ . On considère l’équation $( E ) ^ { \\widehat { } } : z ^ { 3 } + 6 4 \\widehat { { i } } = 0$",
+        "bbox": [
+            70,
+            405,
+            875,
+            441
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Déterminer une solution $z _ { \\mathrm { 0 } }$ de (E) telle que $\\bar { z } _ { 0 } = - z _ { 0 }$",
+        "bbox": [
+            93,
+            446,
+            584,
+            465
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Déterminer les deux autres solutions $z _ { 1 }$ et $z _ { 2 }$ de (E), où $z _ { 1 }$ a une partie réelle négative.",
+        "bbox": [
+            93,
+            470,
+            864,
+            489
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Les points A, B et C ont pour affixes respectives : $- 2 { \\sqrt { 3 } } - 2 i , 2 { \\sqrt { 3 } } - 2 i$ et 4i. Déterminer la nature du triangle ABC et montrer que les points A, B et C appartiennent à une conique dont on précisera la nature et les éléments caractéristiques.",
+        "bbox": [
+            93,
+            494,
+            880,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Déterminer la nature et les éléments caractéristiques de la transformation f du plan qui à $M ( z )$ associe $M ^ { \\prime } ( z ^ { \\prime } )$ tel que $( z ^ { \\prime } - 4 i ) = r e ^ { i \\theta } ( z - 4 i )$ et qui transforme le point A en $B ; r$ et θ étant des nombres réels.",
+        "bbox": [
+            93,
+            556,
+            882,
+            611
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PARTIE B : (5 points)",
+        "text_level": 2,
+        "bbox": [
+            70,
+            617,
+            264,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PARTIE C : (1,25 point)",
+        "text_level": 2,
+        "bbox": [
+            70,
+            636,
+            282,
+            652
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "f est la fonction numérique d’une variable réelle x définie par $f ( x ) = e ^ { 2 e ^ { x } }$ . On pose $g ( x ) = \\ln f ( x )$",
+        "bbox": [
+            68,
+            652,
+            790,
+            690
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Montrer que g est solution d’une équation différentielle du premier ordre que l’on précisera.",
+        "bbox": [
+            68,
+            690,
+            870,
+            709
+        ],
+        "page_idx": 1
+    }
+]

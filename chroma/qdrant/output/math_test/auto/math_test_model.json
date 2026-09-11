@@ -1,0 +1,667 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8557,
+                "bbox": [
+                    416,
+                    311,
+                    1281,
+                    366
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.954,
+                "bbox": [
+                    195,
+                    516,
+                    544,
+                    561
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9441,
+                "bbox": [
+                    192,
+                    591,
+                    543,
+                    627
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9573,
+                "bbox": [
+                    706,
+                    623,
+                    988,
+                    703
+                ],
+                "index": 4,
+                "latex": "x = { \\frac { - b \\pm { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } }"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9205,
+                "bbox": [
+                    1459,
+                    648,
+                    1500,
+                    686
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9513,
+                "bbox": [
+                    193,
+                    735,
+                    440,
+                    777
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9443,
+                "bbox": [
+                    192,
+                    810,
+                    599,
+                    845
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9624,
+                "bbox": [
+                    654,
+                    832,
+                    1041,
+                    910
+                ],
+                "index": 8,
+                "latex": "f ^ { \\prime } ( x ) = \\operatorname* { l i m } _ { h \\to 0 } { \\frac { f ( x + h ) - f ( x ) } { h } }"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9204,
+                "bbox": [
+                    1460,
+                    855,
+                    1500,
+                    893
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9416,
+                "bbox": [
+                    239,
+                    915,
+                    501,
+                    951
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9571,
+                "bbox": [
+                    731,
+                    943,
+                    969,
+                    1026
+                ],
+                "index": 11,
+                "latex": "\\int _ { 0 } ^ { \\pi } \\sin ( x ) d x = 2"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9214,
+                "bbox": [
+                    1460,
+                    965,
+                    1499,
+                    1003
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.951,
+                "bbox": [
+                    192,
+                    1060,
+                    567,
+                    1104
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.945,
+                "bbox": [
+                    192,
+                    1135,
+                    606,
+                    1170
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9644,
+                "bbox": [
+                    622,
+                    1180,
+                    1077,
+                    1258
+                ],
+                "index": 15,
+                "latex": "A = { \\binom { a } { c } } \\ b \\quad \\operatorname* { d e t } ( A ) = a d - b c"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9182,
+                "bbox": [
+                    1460,
+                    1200,
+                    1500,
+                    1237
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9503,
+                "bbox": [
+                    193,
+                    1299,
+                    492,
+                    1344
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9515,
+                "bbox": [
+                    191,
+                    1372,
+                    910,
+                    1409
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9612,
+                "bbox": [
+                    681,
+                    1421,
+                    1013,
+                    1499
+                ],
+                "index": 19,
+                "latex": "f ( x ) = { \\frac { 1 } { \\sigma { \\sqrt { 2 \\pi } } } } e ^ { - { \\frac { 1 } { 2 } } \\left( { \\frac { x - \\mu } { \\sigma } } \\right) ^ { 2 } }"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9183,
+                "bbox": [
+                    1460,
+                    1438,
+                    1499,
+                    1476
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.941,
+                "bbox": [
+                    193,
+                    1536,
+                    387,
+                    1577
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.947,
+                "bbox": [
+                    193,
+                    1610,
+                    701,
+                    1645
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9266,
+                "bbox": [
+                    770,
+                    1645,
+                    929,
+                    1682
+                ],
+                "index": 23,
+                "latex": "e ^ { i \\pi } + 1 = 0"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9202,
+                "bbox": [
+                    1460,
+                    1647,
+                    1499,
+                    1684
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9545,
+                "bbox": [
+                    759,
+                    1722,
+                    935,
+                    1820
+                ],
+                "index": 25,
+                "latex": "\\sum _ { n = 1 } ^ { \\infty } { \\frac { 1 } { n ^ { 2 } } } = { \\frac { \\pi ^ { 2 } } { 6 } }"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9224,
+                "bbox": [
+                    1460,
+                    1750,
+                    1499,
+                    1787
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9536,
+                "bbox": [
+                    193,
+                    1857,
+                    506,
+                    1899
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.923,
+                "bbox": [
+                    775,
+                    1930,
+                    904,
+                    1964
+                ],
+                "index": 28,
+                "latex": "E = m c ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.939,
+                "bbox": [
+                    628,
+                    1967,
+                    760,
+                    2011
+                ],
+                "index": 29,
+                "latex": "\\textstyle \\varphi = { \\frac { 1 + { \\sqrt { 5 } } } { 2 } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9715,
+                "bbox": [
+                    191,
+                    1932,
+                    1504,
+                    2013
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8588,
+                "bbox": [
+                    839,
+                    2059,
+                    859,
+                    2087
+                ],
+                "index": 31
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    420,
+                    311,
+                    1277,
+                    364
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    517,
+                    543,
+                    562
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    594,
+                    539,
+                    627
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1456,
+                    650,
+                    1502,
+                    698
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    731,
+                    436,
+                    779
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    812,
+                    593,
+                    843
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1457,
+                    857,
+                    1502,
+                    903
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    244,
+                    916,
+                    497,
+                    950
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1457,
+                    966,
+                    1502,
+                    1011
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1058,
+                    564,
+                    1103
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1138,
+                    601,
+                    1168
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1455,
+                    1201,
+                    1503,
+                    1252
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1299,
+                    488,
+                    1345
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1376,
+                    905,
+                    1407
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1457,
+                    1440,
+                    1503,
+                    1484
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1533,
+                    385,
+                    1581
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1613,
+                    696,
+                    1643
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1457,
+                    1649,
+                    1502,
+                    1694
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1455,
+                    1752,
+                    1501,
+                    1797
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1855,
+                    502,
+                    1899
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1936,
+                    761,
+                    1964
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    905,
+                    1934,
+                    1501,
+                    1967
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1975,
+                    622,
+                    2007
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    772,
+                    1977,
+                    1155,
+                    2005
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    840,
+                    2060,
+                    858,
+                    2089
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2200
+        }
+    }
+]

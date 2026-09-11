@@ -1,0 +1,2524 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9259,
+                "bbox": [
+                    100,
+                    129,
+                    787,
+                    211
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7832,
+                "bbox": [
+                    1081,
+                    93,
+                    1541,
+                    288
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7375,
+                "bbox": [
+                    122,
+                    398,
+                    961,
+                    438
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5345,
+                "bbox": [
+                    123,
+                    436,
+                    519,
+                    476
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    119,
+                    474,
+                    1305,
+                    603
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9571,
+                "bbox": [
+                    535,
+                    475,
+                    771,
+                    601
+                ],
+                "index": 6,
+                "latex": "\\left\\{ \\begin{array} { l l } { x = \\sqrt { 2 y + 3 } } \\\\ { y = \\sqrt { 2 z + 3 } } \\\\ { z = \\sqrt { 2 x + 3 } } \\end{array} \\right."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6903,
+                "bbox": [
+                    159,
+                    612,
+                    820,
+                    657
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.896,
+                "bbox": [
+                    215,
+                    667,
+                    1512,
+                    713
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8366,
+                "bbox": [
+                    605,
+                    669,
+                    709,
+                    710
+                ],
+                "index": 9,
+                "latex": "\\left( 3 , 3 , 3 \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8018,
+                "bbox": [
+                    362,
+                    764,
+                    450,
+                    800
+                ],
+                "index": 10,
+                "latex": "x < 3"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.93,
+                "bbox": [
+                    216,
+                    721,
+                    1511,
+                    805
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7958,
+                "bbox": [
+                    637,
+                    724,
+                    742,
+                    764
+                ],
+                "index": 12,
+                "latex": "( x , y , z )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9198,
+                "bbox": [
+                    218,
+                    814,
+                    1511,
+                    898
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7645,
+                "bbox": [
+                    362,
+                    857,
+                    450,
+                    892
+                ],
+                "index": 14,
+                "latex": "x > 3 ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7995,
+                "bbox": [
+                    637,
+                    816,
+                    743,
+                    856
+                ],
+                "index": 15,
+                "latex": "\\left( x , y , z \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8835,
+                "bbox": [
+                    214,
+                    906,
+                    1511,
+                    952
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4628,
+                "bbox": [
+                    160,
+                    959,
+                    837,
+                    1004
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9592,
+                "bbox": [
+                    216,
+                    1017,
+                    1513,
+                    1101
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.801,
+                "bbox": [
+                    637,
+                    1019,
+                    743,
+                    1060
+                ],
+                "index": 19,
+                "latex": "\\left( x , y , z \\right)"
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9476,
+                "bbox": [
+                    590,
+                    1126,
+                    1191,
+                    1174
+                ],
+                "index": 20,
+                "latex": "t ^ { 8 } - 1 2 t ^ { 6 } + 3 0 t ^ { 4 } + 3 6 t ^ { 2 } - 1 2 8 t - 1 8 3 = 0 ."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.63,
+                "bbox": [
+                    215,
+                    1212,
+                    1510,
+                    1257
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8287,
+                "bbox": [
+                    120,
+                    1265,
+                    476,
+                    1305
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.834,
+                "bbox": [
+                    500,
+                    1308,
+                    562,
+                    1347
+                ],
+                "index": 23,
+                "latex": "\\left( u _ { n } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.901,
+                "bbox": [
+                    607,
+                    1307,
+                    667,
+                    1346
+                ],
+                "index": 24,
+                "latex": "\\left( v _ { n } \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9484,
+                "bbox": [
+                    119,
+                    1305,
+                    1412,
+                    1387
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9306,
+                "bbox": [
+                    467,
+                    1353,
+                    578,
+                    1386
+                ],
+                "index": 26,
+                "latex": "u _ { n } - v _ { n }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6722,
+                "bbox": [
+                    196,
+                    1387,
+                    259,
+                    1428
+                ],
+                "index": 27,
+                "latex": "\\left( u _ { n } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.55,
+                "bbox": [
+                    302,
+                    1388,
+                    362,
+                    1427
+                ],
+                "index": 28,
+                "latex": "\\left( v _ { n } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.87,
+                "bbox": [
+                    925,
+                    1388,
+                    988,
+                    1428
+                ],
+                "index": 29,
+                "latex": "\\left( u _ { n } \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9439,
+                "bbox": [
+                    120,
+                    1386,
+                    1355,
+                    1470
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6973,
+                "bbox": [
+                    1235,
+                    1388,
+                    1297,
+                    1428
+                ],
+                "index": 31,
+                "latex": "\\left( v _ { n } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8968,
+                "bbox": [
+                    610,
+                    1428,
+                    814,
+                    1467
+                ],
+                "index": 32,
+                "latex": "\\in \\mathbb { N } , u _ { n } \\le v _ { n }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7307,
+                "bbox": [
+                    157,
+                    1484,
+                    1033,
+                    1528
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.746,
+                "bbox": [
+                    215,
+                    1536,
+                    1510,
+                    1583
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7793,
+                "bbox": [
+                    214,
+                    1589,
+                    1511,
+                    1634
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    158,
+                    1642,
+                    1512,
+                    1766
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9646,
+                "bbox": [
+                    158,
+                    1774,
+                    1409,
+                    1857
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6331,
+                "bbox": [
+                    1263,
+                    1776,
+                    1322,
+                    1817
+                ],
+                "index": 38,
+                "latex": "( C ^ { \\prime } )"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8857,
+                "bbox": [
+                    121,
+                    1874,
+                    518,
+                    1913
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9073,
+                "bbox": [
+                    360,
+                    1915,
+                    454,
+                    1956
+                ],
+                "index": 40,
+                "latex": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8898,
+                "bbox": [
+                    936,
+                    1917,
+                    973,
+                    1957
+                ],
+                "index": 41,
+                "latex": "f _ { \\lambda }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8963,
+                "bbox": [
+                    1022,
+                    1912,
+                    1068,
+                    1950
+                ],
+                "index": 42,
+                "latex": "\\mathbb { R } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8801,
+                "bbox": [
+                    613,
+                    1975,
+                    675,
+                    2018
+                ],
+                "index": 43,
+                "latex": "\\left( \\imath , \\jmath \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8587,
+                "bbox": [
+                    1303,
+                    1918,
+                    1353,
+                    1954
+                ],
+                "index": 44,
+                "latex": "M _ { \\lambda }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9587,
+                "bbox": [
+                    118,
+                    1913,
+                    1495,
+                    2073
+                ],
+                "index": 45
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.901,
+                "bbox": [
+                    726,
+                    1972,
+                    772,
+                    2011
+                ],
+                "index": 46,
+                "latex": "\\mathbb { R } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9598,
+                "bbox": [
+                    1006,
+                    1954,
+                    1310,
+                    2037
+                ],
+                "index": 47,
+                "latex": "\\left( \\begin{array} { c c } { { - 1 + \\lambda } } & { { 1 + \\lambda } } \\\\ { { \\lambda ( 1 - \\lambda ) } } & { { \\lambda } } \\end{array} \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9196,
+                "bbox": [
+                    556,
+                    2088,
+                    628,
+                    2129
+                ],
+                "index": 48,
+                "latex": "\\lambda , f _ { \\lambda }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9528,
+                "bbox": [
+                    159,
+                    2085,
+                    1026,
+                    2131
+                ],
+                "index": 49
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    133,
+                    783,
+                    171
+                ],
+                "score": 1.0,
+                "text": "Ministère des Enseignements Secondaires"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    174,
+                    692,
+                    206
+                ],
+                "score": 0.993,
+                "text": "Office du Baccalauréat du Cameroun"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1086,
+                    95,
+                    1538,
+                    131
+                ],
+                "score": 0.995,
+                "text": "Examen : Baccalauréat 2015"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1087,
+                    136,
+                    1259,
+                    168
+                ],
+                "score": 0.998,
+                "text": "Série : C-E"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    169,
+                    1495,
+                    213
+                ],
+                "score": 0.988,
+                "text": "Épreuve : Mathématiques"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1086,
+                    211,
+                    1253,
+                    246
+                ],
+                "score": 0.991,
+                "text": "Durée : 4h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    251,
+                    1382,
+                    283
+                ],
+                "score": 0.974,
+                "text": "Coefficient : 5C/4E"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    404,
+                    955,
+                    437
+                ],
+                "score": 0.994,
+                "text": "L’épreuve comporte trois exercices et un problème, le tout sur"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    438,
+                    513,
+                    479
+                ],
+                "score": 0.979,
+                "text": "EXERCICE 1 (3,25 points)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    521,
+                    525,
+                    559
+                ],
+                "score": 0.99,
+                "text": "Soit à résoudre le système :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    524,
+                    1300,
+                    559
+                ],
+                "score": 0.988,
+                "text": "où x, y et z sont des nombres réels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    617,
+                    814,
+                    651
+                ],
+                "score": 0.994,
+                "text": "1. Première approche : série E uniquement."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    222,
+                    670,
+                    600,
+                    714
+                ],
+                "score": 0.993,
+                "text": "(a) Montrer que le triplet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    718,
+                    675,
+                    1169,
+                    710
+                ],
+                "score": 0.99,
+                "text": "est une solution de ce système."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1390,
+                    670,
+                    1511,
+                    714
+                ],
+                "score": 1.0,
+                "text": "[0,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    726,
+                    630,
+                    762
+                ],
+                "score": 0.999,
+                "text": "(b) Montrer que si le triplet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    749,
+                    724,
+                    1429,
+                    763
+                ],
+                "score": 0.993,
+                "text": "est une solution de ce système, on ne peut pas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    275,
+                    766,
+                    361,
+                    802
+                ],
+                "score": 1.0,
+                "text": "avoir"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1388,
+                    764,
+                    1510,
+                    806
+                ],
+                "score": 1.0,
+                "text": "[1,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    226,
+                    820,
+                    631,
+                    855
+                ],
+                "score": 0.989,
+                "text": "(c) Montrer que si le triplet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    749,
+                    817,
+                    1429,
+                    856
+                ],
+                "score": 0.979,
+                "text": "est une solution de ce système, on ne peut pas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    275,
+                    859,
+                    361,
+                    895
+                ],
+                "score": 1.0,
+                "text": "avoir"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1388,
+                    857,
+                    1510,
+                    898
+                ],
+                "score": 1.0,
+                "text": "[1,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    909,
+                    992,
+                    949
+                ],
+                "score": 0.978,
+                "text": "(d) Déduire alors l’ensemble solution de ce système."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1405,
+                    908,
+                    1512,
+                    953
+                ],
+                "score": 1.0,
+                "text": "[0,5pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    964,
+                    831,
+                    1001
+                ],
+                "score": 0.996,
+                "text": "2. Deuxième approche : série C uniquement"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    1023,
+                    630,
+                    1058
+                ],
+                "score": 0.999,
+                "text": "(a) Montrer que si le triplet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    750,
+                    1022,
+                    1413,
+                    1058
+                ],
+                "score": 0.999,
+                "text": "est solution de ce système, alors x, y et z sont"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    280,
+                    1065,
+                    630,
+                    1095
+                ],
+                "score": 0.992,
+                "text": "solutions de l’équation :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1388,
+                    1060,
+                    1511,
+                    1101
+                ],
+                "score": 1.0,
+                "text": "[1,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    222,
+                    1216,
+                    960,
+                    1256
+                ],
+                "score": 0.995,
+                "text": "(b) En déduire les valeurs rationnelles de x, y et z."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1418,
+                    1213,
+                    1512,
+                    1259
+                ],
+                "score": 1.0,
+                "text": "[2pts]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1270,
+                    470,
+                    1306
+                ],
+                "score": 1.0,
+                "text": "EXERCICE 2 (3 points)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1310,
+                    496,
+                    1345
+                ],
+                "score": 0.995,
+                "text": "– On dit que deux suites"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    564,
+                    1309,
+                    606,
+                    1345
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    668,
+                    1309,
+                    1408,
+                    1345
+                ],
+                "score": 0.981,
+                "text": "sont dites adjacentes lorsque : l’une est croissante,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    1349,
+                    465,
+                    1386
+                ],
+                "score": 0.987,
+                "text": "l’autre décroissate et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    584,
+                    1352,
+                    1098,
+                    1384
+                ],
+                "score": 0.994,
+                "text": "tend vers 0 quand n tend vers +∞."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1386,
+                    195,
+                    1428
+                ],
+                "score": 0.969,
+                "text": "- Si"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    260,
+                    1386,
+                    301,
+                    1428
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    363,
+                    1386,
+                    924,
+                    1428
+                ],
+                "score": 0.991,
+                "text": "sont deux suites adjacentes telles que"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    989,
+                    1386,
+                    1234,
+                    1428
+                ],
+                "score": 0.999,
+                "text": "est croissante et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1298,
+                    1386,
+                    1355,
+                    1428
+                ],
+                "score": 1.0,
+                "text": "est"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1429,
+                    607,
+                    1465
+                ],
+                "score": 0.991,
+                "text": "décroissante, alors pour tout n"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    1489,
+                    1027,
+                    1525
+                ],
+                "score": 0.988,
+                "text": "1. Compléter les phrase ci-après avec le mot qui convient :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1540,
+                    1092,
+                    1581
+                ],
+                "score": 0.964,
+                "text": "(a) Toute suite croissante et majorée est ........ ..........."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1389,
+                    1537,
+                    1513,
+                    1586
+                ],
+                "score": 1.0,
+                "text": "[0,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    222,
+                    1593,
+                    1140,
+                    1631
+                ],
+                "score": 0.952,
+                "text": "(b) Toute suite décroissante et . .. . .. . ... . .. . .. est convergente"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1391,
+                    1592,
+                    1510,
+                    1636
+                ],
+                "score": 1.0,
+                "text": "[0,25pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    1649,
+                    1447,
+                    1683
+                ],
+                "score": 0.993,
+                "text": "2. Indiquer si la proposition ci-après est vraie ou fausse et proposer une démonstration"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1687,
+                    1418,
+                    1724
+                ],
+                "score": 0.99,
+                "text": "pour la réponse indiquée : « Deux suite adjacentes sont convergentes et elles ont la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1731,
+                    426,
+                    1759
+                ],
+                "score": 0.984,
+                "text": "même limite »."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1404,
+                    1725,
+                    1511,
+                    1767
+                ],
+                "score": 1.0,
+                "text": "[1,5pt]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1777,
+                    1262,
+                    1816
+                ],
+                "score": 0.982,
+                "text": "3. Relier en justifiant votre choix la courbe (C) de la colone (I) à la courbe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1323,
+                    1777,
+                    1408,
+                    1816
+                ],
+                "score": 0.996,
+                "text": "de la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1821,
+                    398,
+                    1856
+                ],
+                "score": 0.999,
+                "text": "colonne (II)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1877,
+                    513,
+                    1916
+                ],
+                "score": 0.995,
+                "text": "EXERCICE 3 (3,75 points)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1915,
+                    359,
+                    1954
+                ],
+                "score": 0.974,
+                "text": "On désigne par"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    455,
+                    1915,
+                    935,
+                    1954
+                ],
+                "score": 1.0,
+                "text": ", la famille des endomorphismes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    1915,
+                    1021,
+                    1954
+                ],
+                "score": 1.0,
+                "text": "de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1069,
+                    1915,
+                    1296,
+                    1954
+                ],
+                "score": 1.0,
+                "text": "dont la matrice"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1975,
+                    612,
+                    2014
+                ],
+                "score": 0.995,
+                "text": "relativement à la base canonique"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    676,
+                    1975,
+                    725,
+                    2014
+                ],
+                "score": 1.0,
+                "text": "de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    773,
+                    1975,
+                    999,
+                    2014
+                ],
+                "score": 0.979,
+                "text": "est de la forme"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1322,
+                    1978,
+                    1491,
+                    2011
+                ],
+                "score": 0.998,
+                "text": "où λ est un"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    2034,
+                    196,
+                    2076
+                ],
+                "score": 1.0,
+                "text": "réel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    2092,
+                    552,
+                    2126
+                ],
+                "score": 0.976,
+                "text": "1. A quelle conditions sur"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    635,
+                    2092,
+                    1019,
+                    2126
+                ],
+                "score": 0.979,
+                "text": "est-il un automorphisme?"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7031,
+                "bbox": [
+                    835,
+                    203,
+                    1001,
+                    240
+                ],
+                "index": 1,
+                "latex": "- 2 , - 1 , 0 , 1"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4789,
+                "bbox": [
+                    1043,
+                    204,
+                    1074,
+                    240
+                ],
+                "index": 2,
+                "latex": "^ { 2 , }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9675,
+                "bbox": [
+                    159,
+                    201,
+                    1465,
+                    321
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7412,
+                "bbox": [
+                    209,
+                    282,
+                    284,
+                    323
+                ],
+                "index": 4,
+                "latex": "\\left( p , q \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9325,
+                "bbox": [
+                    201,
+                    321,
+                    1339,
+                    363
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8352,
+                "bbox": [
+                    991,
+                    323,
+                    1063,
+                    363
+                ],
+                "index": 6,
+                "latex": "\\left( p , q \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9258,
+                "bbox": [
+                    200,
+                    362,
+                    977,
+                    402
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8791,
+                "bbox": [
+                    481,
+                    363,
+                    515,
+                    404
+                ],
+                "index": 8,
+                "latex": "f _ { p }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8772,
+                "bbox": [
+                    555,
+                    363,
+                    587,
+                    403
+                ],
+                "index": 9,
+                "latex": "f _ { q }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9513,
+                "bbox": [
+                    201,
+                    403,
+                    975,
+                    443
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.755,
+                "bbox": [
+                    507,
+                    403,
+                    615,
+                    443
+                ],
+                "index": 11,
+                "latex": "f _ { p } \\operatorname { e t } f _ { q }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.844,
+                "bbox": [
+                    425,
+                    444,
+                    460,
+                    486
+                ],
+                "index": 12,
+                "latex": "f _ { p }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8532,
+                "bbox": [
+                    498,
+                    445,
+                    533,
+                    485
+                ],
+                "index": 13,
+                "latex": "f _ { q }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9427,
+                "bbox": [
+                    202,
+                    443,
+                    931,
+                    485
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9581,
+                "bbox": [
+                    217,
+                    506,
+                    834,
+                    548
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9545,
+                "bbox": [
+                    216,
+                    558,
+                    878,
+                    602
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596,
+                "bbox": [
+                    159,
+                    623,
+                    1212,
+                    666
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7566,
+                "bbox": [
+                    1148,
+                    625,
+                    1202,
+                    663
+                ],
+                "index": 18,
+                "latex": "f _ { - 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8891,
+                "bbox": [
+                    761,
+                    694,
+                    807,
+                    732
+                ],
+                "index": 19,
+                "latex": "\\mathbb { R } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7369,
+                "bbox": [
+                    453,
+                    756,
+                    551,
+                    800
+                ],
+                "index": 20,
+                "latex": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8265,
+                "bbox": [
+                    888,
+                    692,
+                    934,
+                    735
+                ],
+                "index": 21,
+                "latex": "\\mathbb { R } ^ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9728,
+                "bbox": [
+                    160,
+                    675,
+                    1493,
+                    803
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9464,
+                "bbox": [
+                    994,
+                    675,
+                    1449,
+                    757
+                ],
+                "index": 23,
+                "latex": "g ( x , y ) = { \\frac { 1 } { 2 } } \\left( - x + 3 y ; { \\frac { 1 } { 2 } } x + y \\right)"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9011,
+                "bbox": [
+                    122,
+                    811,
+                    322,
+                    849
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9308,
+                "bbox": [
+                    122,
+                    853,
+                    496,
+                    891
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711,
+                "bbox": [
+                    120,
+                    892,
+                    1491,
+                    974
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6924,
+                "bbox": [
+                    127,
+                    931,
+                    385,
+                    972
+                ],
+                "index": 27,
+                "latex": "( E ) ^ { \\widehat { } } : z ^ { 3 } + 6 4 \\widehat { { i } } = 0"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7162,
+                "bbox": [
+                    985,
+                    893,
+                    1118,
+                    933
+                ],
+                "index": 28,
+                "latex": "\\left( \\mathrm { O } , \\vec { u } , \\vec { v } \\right)"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.956,
+                "bbox": [
+                    159,
+                    986,
+                    995,
+                    1027
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6758,
+                "bbox": [
+                    574,
+                    992,
+                    609,
+                    1025
+                ],
+                "index": 30,
+                "latex": "z _ { \\mathrm { 0 } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8053,
+                "bbox": [
+                    847,
+                    990,
+                    985,
+                    1025
+                ],
+                "index": 31,
+                "latex": "\\bar { z } _ { 0 } = - z _ { 0 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6722,
+                "bbox": [
+                    751,
+                    1046,
+                    785,
+                    1077
+                ],
+                "index": 32,
+                "latex": "z _ { 1 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6363,
+                "bbox": [
+                    824,
+                    1044,
+                    860,
+                    1077
+                ],
+                "index": 33,
+                "latex": "z _ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9565,
+                "bbox": [
+                    159,
+                    1037,
+                    1471,
+                    1080
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7395,
+                "bbox": [
+                    1020,
+                    1044,
+                    1054,
+                    1078
+                ],
+                "index": 35,
+                "latex": "z _ { 1 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8756,
+                "bbox": [
+                    930,
+                    1090,
+                    1241,
+                    1132
+                ],
+                "index": 36,
+                "latex": "- 2 { \\sqrt { 3 } } - 2 i , 2 { \\sqrt { 3 } } - 2 i"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    159,
+                    1091,
+                    1498,
+                    1218
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6308,
+                "bbox": [
+                    231,
+                    1268,
+                    309,
+                    1307
+                ],
+                "index": 38,
+                "latex": "M ( z )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9094,
+                "bbox": [
+                    429,
+                    1266,
+                    526,
+                    1307
+                ],
+                "index": 39,
+                "latex": "M ^ { \\prime } ( z ^ { \\prime } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9396,
+                "bbox": [
+                    644,
+                    1265,
+                    966,
+                    1307
+                ],
+                "index": 40,
+                "latex": "( z ^ { \\prime } - 4 i ) = r e ^ { i \\theta } ( z - 4 i )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9765,
+                "bbox": [
+                    159,
+                    1226,
+                    1502,
+                    1347
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5197,
+                "bbox": [
+                    1437,
+                    1270,
+                    1498,
+                    1306
+                ],
+                "index": 42,
+                "latex": "B ; r"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7426,
+                "bbox": [
+                    121,
+                    1359,
+                    452,
+                    1399
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8767,
+                "bbox": [
+                    121,
+                    1400,
+                    481,
+                    1438
+                ],
+                "index": 44
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8931,
+                "bbox": [
+                    123,
+                    1480,
+                    340,
+                    1521
+                ],
+                "index": 45,
+                "latex": "g ( x ) = \\ln f ( x )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9634,
+                "bbox": [
+                    118,
+                    1437,
+                    1347,
+                    1521
+                ],
+                "index": 46
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9329,
+                "bbox": [
+                    1038,
+                    1436,
+                    1199,
+                    1480
+                ],
+                "index": 47,
+                "latex": "f ( x ) = e ^ { 2 e ^ { x } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9569,
+                "bbox": [
+                    119,
+                    1520,
+                    1482,
+                    1563
+                ],
+                "index": 48
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    203,
+                    825,
+                    235
+                ],
+                "score": 0.987,
+                "text": "2. Une boîte Ω contient 5 boules numérotées"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1002,
+                    205,
+                    1042,
+                    236
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1075,
+                    205,
+                    1437,
+                    236
+                ],
+                "score": 0.997,
+                "text": "toutes indiscernables au"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    245,
+                    1459,
+                    276
+                ],
+                "score": 0.999,
+                "text": "toucher. On tire au hasard successivement et sans remise deux boules de Ω et on note"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    292,
+                    286,
+                    743,
+                    319
+                ],
+                "score": 1.0,
+                "text": "le couple de numéros obtenus."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    323,
+                    990,
+                    364
+                ],
+                "score": 0.996,
+                "text": "On désigne par X l’aléa numérique qui à tout couple"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1064,
+                    323,
+                    1334,
+                    364
+                ],
+                "score": 0.999,
+                "text": "associe la valeur :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    364,
+                    480,
+                    400
+                ],
+                "score": 0.944,
+                "text": "– —2 si aucun des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    516,
+                    364,
+                    554,
+                    400
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    588,
+                    364,
+                    969,
+                    400
+                ],
+                "score": 0.978,
+                "text": "n’est un automorphisme ;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    405,
+                    503,
+                    439
+                ],
+                "score": 0.99,
+                "text": "– 1 si un seul parmi"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    620,
+                    405,
+                    969,
+                    441
+                ],
+                "score": 1.0,
+                "text": "est un automorphisme;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    442,
+                    424,
+                    481
+                ],
+                "score": 0.958,
+                "text": "– 3 si les deux"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    461,
+                    442,
+                    497,
+                    481
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    534,
+                    442,
+                    925,
+                    481
+                ],
+                "score": 1.0,
+                "text": "sont des automorphismes."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    510,
+                    829,
+                    547
+                ],
+                "score": 0.994,
+                "text": "(a) Déterminer la loi de probabilité de X."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    563,
+                    872,
+                    600
+                ],
+                "score": 0.953,
+                "text": "(b) Calculer l’espérance et l’écart-type de X."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    627,
+                    1147,
+                    662
+                ],
+                "score": 0.986,
+                "text": "3. Déterminer une équation cartésienne du noyau et de l’image de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    695,
+                    760,
+                    742
+                ],
+                "score": 0.995,
+                "text": "4. Soit g l’application linéaire définie de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    808,
+                    695,
+                    887,
+                    742
+                ],
+                "score": 1.0,
+                "text": "dans"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    935,
+                    695,
+                    993,
+                    742
+                ],
+                "score": 1.0,
+                "text": "par"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1450,
+                    705,
+                    1495,
+                    743
+                ],
+                "score": 0.665,
+                "text": "·8"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    763,
+                    452,
+                    799
+                ],
+                "score": 1.0,
+                "text": "appartient-elle à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    552,
+                    761,
+                    702,
+                    799
+                ],
+                "score": 0.969,
+                "text": "? Justifier."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    820,
+                    316,
+                    850
+                ],
+                "score": 0.999,
+                "text": "PROBLEME"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    852,
+                    493,
+                    893
+                ],
+                "score": 0.991,
+                "text": "PARTIE A : (3,75 points)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    897,
+                    979,
+                    930
+                ],
+                "score": 0.994,
+                "text": "Le plan complexe est muni d’un repère orthonormé direct"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1120,
+                    897,
+                    1489,
+                    932
+                ],
+                "score": 0.98,
+                "text": ". On considère l’équation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    986,
+                    573,
+                    1026
+                ],
+                "score": 1.0,
+                "text": "1. Déterminer une solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    610,
+                    986,
+                    844,
+                    1026
+                ],
+                "score": 1.0,
+                "text": "de (E) telle que"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1039,
+                    750,
+                    1078
+                ],
+                "score": 0.993,
+                "text": "2. Déterminer les deux autres solutions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    1039,
+                    823,
+                    1078
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    861,
+                    1039,
+                    1019,
+                    1078
+                ],
+                "score": 0.998,
+                "text": "de (E), où"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1055,
+                    1039,
+                    1468,
+                    1078
+                ],
+                "score": 0.998,
+                "text": "a une partie réelle négative."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    1099,
+                    927,
+                    1133
+                ],
+                "score": 0.992,
+                "text": "3. Les points A, B et C ont pour affixes respectives :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1245,
+                    1101,
+                    1494,
+                    1130
+                ],
+                "score": 0.993,
+                "text": "et 4i. Déterminer"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1136,
+                    1409,
+                    1176
+                ],
+                "score": 0.991,
+                "text": "la nature du triangle ABC et montrer que les points A, B et C appartiennent à une"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1179,
+                    1193,
+                    1214
+                ],
+                "score": 1.0,
+                "text": "conique dont on précisera la nature et les éléments caractéristiques."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    1227,
+                    1492,
+                    1269
+                ],
+                "score": 0.99,
+                "text": "4. Déterminer la nature et les éléments caractéristiques de la transformation f du plan qui"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1271,
+                    230,
+                    1304
+                ],
+                "score": 1.0,
+                "text": "à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    313,
+                    1274,
+                    425,
+                    1304
+                ],
+                "score": 1.0,
+                "text": "associe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    528,
+                    1268,
+                    639,
+                    1312
+                ],
+                "score": 0.869,
+                "text": "tel que"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    967,
+                    1273,
+                    1433,
+                    1310
+                ],
+                "score": 1.0,
+                "text": "et qui transforme le point A en"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1313,
+                    623,
+                    1345
+                ],
+                "score": 0.999,
+                "text": "et θ étant des nombres réels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1360,
+                    446,
+                    1401
+                ],
+                "score": 0.969,
+                "text": "PARTIE B : (5 points)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1399,
+                    476,
+                    1441
+                ],
+                "score": 0.99,
+                "text": "PARTIE C : (1,25 point)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1445,
+                    1034,
+                    1479
+                ],
+                "score": 0.992,
+                "text": "f est la fonction numérique d’une variable réelle x définie par"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1200,
+                    1440,
+                    1345,
+                    1484
+                ],
+                "score": 0.986,
+                "text": ". On pose"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1525,
+                    1479,
+                    1561
+                ],
+                "score": 0.985,
+                "text": "Montrer que g est solution d’une équation différentielle du premier ordre que l’on précisera."
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2200
+        }
+    }
+]

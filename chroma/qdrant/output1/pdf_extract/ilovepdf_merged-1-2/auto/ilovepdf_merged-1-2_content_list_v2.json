@@ -1,0 +1,1174 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L’épreuve comporte trois exercices et un problème, le tout sur"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                180,
+                563,
+                198
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXERCICE 1 (3,25 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                71,
+                196,
+                303,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Soit à résoudre le système : "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left\\{ \\begin{array} { l l } { x = \\sqrt { 2 y + 3 } } \\\\ { y = \\sqrt { 2 z + 3 } } \\\\ { z = \\sqrt { 2 x + 3 } } \\end{array} \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "où x, y et z sont des nombres réels."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                214,
+                766,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Première approche : série E uniquement."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                277,
+                482,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Montrer que le triplet "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( 3 , 3 , 3 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une solution de ce système. [0,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                303,
+                888,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Montrer que si le triplet "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x , y , z )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une solution de ce système, on ne peut pas avoir "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x < 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[1,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                327,
+                887,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Montrer que si le triplet "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( x , y , z \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une solution de ce système, on ne peut pas avoir "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x > 3 ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "[1,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                369,
+                887,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) Déduire alors l’ensemble solution de ce système. [0,5pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                411,
+                887,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Deuxième approche : série C uniquement"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                93,
+                435,
+                491,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Montrer que si le triplet "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( x , y , z \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est solution de ce système, alors x, y et z sont solutions de l’équation : [1,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                462,
+                888,
+                500
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t ^ { 8 } - 1 2 t ^ { 6 } + 3 0 t ^ { 4 } + 3 6 t ^ { 2 } - 1 2 8 t - 1 8 3 = 0 .",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8c24fa5e4c276aa6539f1de491a14601972ef400ff557abf9588af83b4f6a509.jpg"
+                }
+            },
+            "bbox": [
+                346,
+                511,
+                699,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) En déduire les valeurs rationnelles de x, y et z. [2pts]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                550,
+                887,
+                570
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXERCICE 2 (3 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                574,
+                279,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "– On dit que deux suites "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( v _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sont dites adjacentes lorsque : l’une est croissante, l’autre décroissate et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "u _ { n } - v _ { n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "tend vers 0 quand n tend vers +∞."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                592,
+                830,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Si "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( v _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sont deux suites adjacentes telles que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est croissante et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( v _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est décroissante, alors pour tout n "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\in \\mathbb { N } , u _ { n } \\le v _ { n }"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                628,
+                795,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Compléter les phrase ci-après avec le mot qui convient :"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                674,
+                606,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Toute suite croissante et majorée est ........ ........... [0,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                696,
+                887,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Toute suite décroissante et . .. . .. . ... . .. . .. est convergente [0,25pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                722,
+                887,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Indiquer si la proposition ci-après est vraie ou fausse et proposer une démonstration pour la réponse indiquée : « Deux suite adjacentes sont convergentes et elles ont la même limite ». [1,5pt]"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                746,
+                888,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Relier en justifiant votre choix la courbe (C) de la colone (I) à la courbe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( C ^ { \\prime } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de la colonne (II)."
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                805,
+                828,
+                843
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXERCICE 3 (3,75 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                851,
+                303,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On désigne par "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", la famille des endomorphismes "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\lambda }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbb { R } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dont la matrice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { \\lambda }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "relativement à la base canonique "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\imath , \\jmath \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbb { R } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est de la forme "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\begin{array} { c c } { { - 1 + \\lambda } } & { { 1 + \\lambda } } \\\\ { { \\lambda ( 1 - \\lambda ) } } & { { \\lambda } } \\end{array} \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "où λ est un réel."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                868,
+                879,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. A quelle conditions sur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda , f _ { \\lambda }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est-il un automorphisme?"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                946,
+                602,
+                968
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ministère des Enseignements Secondaires Office du Baccalauréat du Cameroun"
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                58,
+                462,
+                94
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Examen : Baccalauréat 2015 Série : C-E Épreuve : Mathématiques Durée : 4h Coefficient : 5C/4E"
+                    }
+                ]
+            },
+            "bbox": [
+                635,
+                41,
+                905,
+                130
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Une boîte Ω contient 5 boules numérotées "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 , - 1 , 0 , 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 2 , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "toutes indiscernables au toucher. On tire au hasard successivement et sans remise deux boules de Ω et on note "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( p , q \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "le couple de numéros obtenus."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                90,
+                861,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On désigne par X l’aléa numérique qui à tout couple "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( p , q \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "associe la valeur :"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                145,
+                787,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "– —2 si aucun des "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { q }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "n’est un automorphisme ;"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                164,
+                573,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "– 1 si un seul parmi "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { p } \\operatorname { e t } f _ { q }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est un automorphisme;"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                183,
+                573,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "– 3 si les deux "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { q }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sont des automorphismes."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                200,
+                547,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Déterminer la loi de probabilité de X."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                229,
+                490,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Calculer l’espérance et l’écart-type de X."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                252,
+                516,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Déterminer une équation cartésienne du noyau et de l’image de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { - 2 }"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                282,
+                712,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Soit g l’application linéaire définie de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbb { R } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dans "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbb { R } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "par "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x , y ) = { \\frac { 1 } { 2 } } \\left( - x + 3 y ; { \\frac { 1 } { 2 } } x + y \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "·8 appartient-elle à "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "? Justifier."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                306,
+                877,
+                364
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEME"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                367,
+                187,
+                385
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PARTIE A : (3,75 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                387,
+                290,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le plan complexe est muni d’un repère orthonormé direct "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { O } , \\vec { u } , \\vec { v } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". On considère l’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E ) ^ { \\widehat { } } : z ^ { 3 } + 6 4 \\widehat { { i } } = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                405,
+                875,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Déterminer une solution "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z _ { \\mathrm { 0 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de (E) telle que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { z } _ { 0 } = - z _ { 0 }"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                446,
+                584,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Déterminer les deux autres solutions "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de (E), où "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a une partie réelle négative."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                470,
+                864,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Les points A, B et C ont pour affixes respectives : "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 { \\sqrt { 3 } } - 2 i , 2 { \\sqrt { 3 } } - 2 i"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et 4i. Déterminer la nature du triangle ABC et montrer que les points A, B et C appartiennent à une conique dont on précisera la nature et les éléments caractéristiques."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                494,
+                880,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Déterminer la nature et les éléments caractéristiques de la transformation f du plan qui à "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M ( z )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "associe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M ^ { \\prime } ( z ^ { \\prime } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "tel que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( z ^ { \\prime } - 4 i ) = r e ^ { i \\theta } ( z - 4 i )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et qui transforme le point A en "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B ; r"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et θ étant des nombres réels."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                556,
+                882,
+                611
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PARTIE B : (5 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                617,
+                264,
+                635
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PARTIE C : (1,25 point)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                636,
+                282,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f est la fonction numérique d’une variable réelle x définie par "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x ) = e ^ { 2 e ^ { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". On pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x ) = \\ln f ( x )"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                652,
+                790,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Montrer que g est solution d’une équation différentielle du premier ordre que l’on précisera."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                690,
+                870,
+                709
+            ]
+        }
+    ]
+]

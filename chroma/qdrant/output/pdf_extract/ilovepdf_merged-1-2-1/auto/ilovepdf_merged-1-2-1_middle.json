@@ -1,0 +1,3458 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.7375,
+                    "bbox": [
+                        43,
+                        143,
+                        345,
+                        157
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                145,
+                                343,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        145,
+                                        343,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "L’épreuve comporte trois exercices et un problème, le tout sur",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5345,
+                    "bbox": [
+                        44,
+                        156,
+                        186,
+                        171
+                    ],
+                    "index": 4,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                157,
+                                184,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        157,
+                                        184,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 1 (3,25 points)",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9593,
+                    "bbox": [
+                        42,
+                        170,
+                        469,
+                        217
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                171,
+                                468,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        187,
+                                        189,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Soit à résoudre le système :",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        192,
+                                        171,
+                                        277,
+                                        216
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left\\{ \\begin{array} { l l } { x = \\sqrt { 2 y + 3 } } \\\\ { y = \\sqrt { 2 z + 3 } } \\\\ { z = \\sqrt { 2 x + 3 } } \\end{array} \\right.",
+                                    "score": 0.9571
+                                },
+                                {
+                                    "bbox": [
+                                        285,
+                                        188,
+                                        468,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "où x, y et z sont des nombres réels.",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6903,
+                    "bbox": [
+                        57,
+                        220,
+                        295,
+                        236
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                222,
+                                293,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        222,
+                                        293,
+                                        234
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Première approche : série E uniquement.",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.896,
+                    "bbox": [
+                        77,
+                        240,
+                        544,
+                        256
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                240,
+                                543,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        241,
+                                        216,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Montrer que le triplet",
+                                    "score": 0.994
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        240,
+                                        255,
+                                        255
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( 3 , 3 , 3 \\right)",
+                                    "score": 0.8366
+                                },
+                                {
+                                    "bbox": [
+                                        258,
+                                        243,
+                                        420,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système.",
+                                    "score": 0.983
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        241,
+                                        543,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.93,
+                    "bbox": [
+                        77,
+                        259,
+                        543,
+                        289
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                260,
+                                514,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        261,
+                                        226,
+                                        274
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        260,
+                                        267,
+                                        275
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "( x , y , z )",
+                                    "score": 0.7958
+                                },
+                                {
+                                    "bbox": [
+                                        269,
+                                        260,
+                                        514,
+                                        274
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système, on ne peut pas",
+                                    "score": 0.976
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                275,
+                                543,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        275,
+                                        129,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "avoir",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        275,
+                                        162,
+                                        288
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x < 3",
+                                    "score": 0.8018
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        275,
+                                        543,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9198,
+                    "bbox": [
+                        78,
+                        293,
+                        543,
+                        323
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                293,
+                                514,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        295,
+                                        227,
+                                        307
+                                    ],
+                                    "type": "text",
+                                    "content": "(c) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        293,
+                                        267,
+                                        308
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( x , y , z \\right)",
+                                    "score": 0.7995
+                                },
+                                {
+                                    "bbox": [
+                                        269,
+                                        294,
+                                        514,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système, on ne peut pas",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                308,
+                                543,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        309,
+                                        129,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "avoir",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        308,
+                                        162,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x > 3 .",
+                                    "score": 0.7645
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        308,
+                                        543,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8835,
+                    "bbox": [
+                        77,
+                        326,
+                        543,
+                        342
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                326,
+                                544,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        327,
+                                        357,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "(d) Déduire alors l’ensemble solution de ce système.",
+                                    "score": 0.981
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        326,
+                                        544,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,5pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4628,
+                    "bbox": [
+                        57,
+                        345,
+                        301,
+                        361
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                347,
+                                299,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        347,
+                                        299,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "2. Deuxième approche : série C uniquement",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9592,
+                    "bbox": [
+                        77,
+                        366,
+                        544,
+                        396
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                366,
+                                508,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        368,
+                                        226,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        366,
+                                        267,
+                                        381
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( x , y , z \\right)",
+                                    "score": 0.801
+                                },
+                                {
+                                    "bbox": [
+                                        270,
+                                        367,
+                                        508,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "est solution de ce système, alors x, y et z sont",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                100,
+                                381,
+                                543,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        383,
+                                        226,
+                                        394
+                                    ],
+                                    "type": "text",
+                                    "content": "solutions de l’équation :",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        381,
+                                        543,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9476,
+                    "bbox": [
+                        212,
+                        405,
+                        428,
+                        422
+                    ],
+                    "index": 13,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                405,
+                                428,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        405,
+                                        428,
+                                        422
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "t ^ { 8 } - 1 2 t ^ { 6 } + 3 0 t ^ { 4 } + 3 6 t ^ { 2 } - 1 2 8 t - 1 8 3 = 0 .",
+                                    "image_path": "8c24fa5e4c276aa6539f1de491a14601972ef400ff557abf9588af83b4f6a509.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.63,
+                    "bbox": [
+                        77,
+                        436,
+                        543,
+                        452
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                436,
+                                544,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        437,
+                                        345,
+                                        452
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) En déduire les valeurs rationnelles de x, y et z.",
+                                    "score": 0.996
+                                },
+                                {
+                                    "bbox": [
+                                        510,
+                                        436,
+                                        544,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": "[2pts]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8287,
+                    "bbox": [
+                        43,
+                        455,
+                        171,
+                        469
+                    ],
+                    "index": 15,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                457,
+                                169,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        457,
+                                        169,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 2 (3 points)",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9484,
+                    "bbox": [
+                        42,
+                        469,
+                        508,
+                        499
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                470,
+                                506,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        471,
+                                        178,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "– On dit que deux suites",
+                                    "score": 0.995
+                                },
+                                {
+                                    "bbox": [
+                                        180,
+                                        470,
+                                        202,
+                                        484
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.834
+                                },
+                                {
+                                    "bbox": [
+                                        203,
+                                        471,
+                                        218,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "et",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        470,
+                                        240,
+                                        484
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.901
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        471,
+                                        506,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "sont dites adjacentes lorsque : l’une est croissante,",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                485,
+                                395,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        485,
+                                        167,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "l’autre décroissate et",
+                                    "score": 0.989
+                                },
+                                {
+                                    "bbox": [
+                                        168,
+                                        487,
+                                        208,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "u _ { n } - v _ { n }",
+                                    "score": 0.9306
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        486,
+                                        395,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "tend vers 0 quand n tend vers +∞.",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9439,
+                    "bbox": [
+                        43,
+                        498,
+                        487,
+                        529
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                498,
+                                487,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        498,
+                                        70,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "- Si",
+                                    "score": 0.969
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        499,
+                                        93,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.6722
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        498,
+                                        108,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "et",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        108,
+                                        499,
+                                        130,
+                                        513
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.55
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        498,
+                                        332,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "sont deux suites adjacentes telles que",
+                                    "score": 0.987
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        499,
+                                        355,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.87
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        498,
+                                        444,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "est croissante et",
+                                    "score": 0.998
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        499,
+                                        466,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.6973
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        498,
+                                        487,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "est",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                514,
+                                293,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        514,
+                                        218,
+                                        527
+                                    ],
+                                    "type": "text",
+                                    "content": "décroissante, alors pour tout n",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        219,
+                                        514,
+                                        293,
+                                        528
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\in \\mathbb { N } , u _ { n } \\le v _ { n }",
+                                    "score": 0.8968
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7307,
+                    "bbox": [
+                        56,
+                        534,
+                        371,
+                        550
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                536,
+                                369,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        536,
+                                        369,
+                                        549
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Compléter les phrase ci-après avec le mot qui convient :",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.746,
+                    "bbox": [
+                        77,
+                        552,
+                        543,
+                        569
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                553,
+                                544,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        554,
+                                        393,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Toute suite croissante et majorée est ........ ...........",
+                                    "score": 0.962
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        553,
+                                        544,
+                                        570
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7793,
+                    "bbox": [
+                        77,
+                        572,
+                        543,
+                        588
+                    ],
+                    "index": 20,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                573,
+                                543,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        573,
+                                        410,
+                                        587
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) Toute suite décroissante et . .. . .. . ... . .. . .. est convergente",
+                                    "score": 0.947
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        573,
+                                        543,
+                                        588
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9772,
+                    "bbox": [
+                        56,
+                        591,
+                        544,
+                        635
+                    ],
+                    "index": 21,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                593,
+                                520,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        593,
+                                        520,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "2. Indiquer si la proposition ci-après est vraie ou fausse et proposer une démonstration",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                72,
+                                607,
+                                510,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        607,
+                                        510,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": "pour la réponse indiquée : « Deux suite adjacentes sont convergentes et elles ont la",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                621,
+                                543,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        623,
+                                        153,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "même limite ».",
+                                    "score": 0.985
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        621,
+                                        543,
+                                        636
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,5pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9646,
+                    "bbox": [
+                        56,
+                        638,
+                        507,
+                        668
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                639,
+                                506,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        639,
+                                        454,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "3. Relier en justifiant votre choix la courbe (C) de la colone (I) à la courbe",
+                                    "score": 0.993
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        639,
+                                        475,
+                                        654
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "( C ^ { \\prime } )",
+                                    "score": 0.6331
+                                },
+                                {
+                                    "bbox": [
+                                        476,
+                                        639,
+                                        506,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "de la",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                655,
+                                143,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        655,
+                                        143,
+                                        668
+                                    ],
+                                    "type": "text",
+                                    "content": "colonne (II).",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8857,
+                    "bbox": [
+                        43,
+                        674,
+                        186,
+                        688
+                    ],
+                    "index": 23,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                675,
+                                184,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        675,
+                                        184,
+                                        689
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 3 (3,75 points)",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        42,
+                        688,
+                        538,
+                        746
+                    ],
+                    "index": 24,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                688,
+                                487,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        689,
+                                        129,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "On désigne par",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        689,
+                                        163,
+                                        704
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )",
+                                    "score": 0.9073
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        689,
+                                        336,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": ", la famille des endomorphismes",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        336,
+                                        690,
+                                        350,
+                                        704
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "f _ { \\lambda }",
+                                    "score": 0.8898
+                                },
+                                {
+                                    "bbox": [
+                                        350,
+                                        689,
+                                        367,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "de",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        367,
+                                        688,
+                                        384,
+                                        702
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbb { R } ^ { 2 }",
+                                    "score": 0.8963
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        689,
+                                        466,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "dont la matrice",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        469,
+                                        690,
+                                        487,
+                                        703
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "M _ { \\lambda }",
+                                    "score": 0.8587
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                703,
+                                536,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        711,
+                                        220,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "relativement à la base canonique",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        220,
+                                        711,
+                                        243,
+                                        726
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( \\imath , \\jmath \\right)",
+                                    "score": 0.8801
+                                },
+                                {
+                                    "bbox": [
+                                        243,
+                                        711,
+                                        261,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "de",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        261,
+                                        709,
+                                        277,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbb { R } ^ { 2 }",
+                                    "score": 0.901
+                                },
+                                {
+                                    "bbox": [
+                                        278,
+                                        711,
+                                        359,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "est de la forme",
+                                    "score": 0.979
+                                },
+                                {
+                                    "bbox": [
+                                        362,
+                                        703,
+                                        471,
+                                        733
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( \\begin{array} { c c } { { - 1 + \\lambda } } & { { 1 + \\lambda } } \\\\ { { \\lambda ( 1 - \\lambda ) } } & { { \\lambda } } \\end{array} \\right)",
+                                    "score": 0.9598
+                                },
+                                {
+                                    "bbox": [
+                                        475,
+                                        712,
+                                        536,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": "où λ est un",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                42,
+                                732,
+                                70,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        732,
+                                        70,
+                                        747
+                                    ],
+                                    "type": "text",
+                                    "content": "réel.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9528,
+                    "bbox": [
+                        57,
+                        750,
+                        369,
+                        767
+                    ],
+                    "index": 25,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                751,
+                                366,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        753,
+                                        198,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "1. A quelle conditions sur",
+                                    "score": 0.976
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        751,
+                                        226,
+                                        766
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\lambda , f _ { \\lambda }",
+                                    "score": 0.9196
+                                },
+                                {
+                                    "bbox": [
+                                        228,
+                                        753,
+                                        366,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "est-il un automorphisme?",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.9259,
+                    "bbox": [
+                        36,
+                        46,
+                        283,
+                        75
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                37,
+                                47,
+                                281,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        37,
+                                        47,
+                                        281,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Ministère des Enseignements Secondaires",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                38,
+                                62,
+                                249,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        62,
+                                        249,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "Office du Baccalauréat du Cameroun",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7832,
+                    "bbox": [
+                        389,
+                        33,
+                        554,
+                        103
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                390,
+                                34,
+                                553,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        390,
+                                        34,
+                                        553,
+                                        47
+                                    ],
+                                    "type": "text",
+                                    "content": "Examen : Baccalauréat 2015",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                391,
+                                48,
+                                453,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        391,
+                                        48,
+                                        453,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "Série : C-E",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                391,
+                                60,
+                                538,
+                                76
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        391,
+                                        60,
+                                        538,
+                                        76
+                                    ],
+                                    "type": "text",
+                                    "content": "Épreuve : Mathématiques",
+                                    "score": 0.986
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                390,
+                                75,
+                                451,
+                                88
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        390,
+                                        75,
+                                        451,
+                                        88
+                                    ],
+                                    "type": "text",
+                                    "content": "Durée : 4h",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                391,
+                                90,
+                                497,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        391,
+                                        90,
+                                        497,
+                                        101
+                                    ],
+                                    "type": "text",
+                                    "content": "Coefficient : 5C/4E",
+                                    "score": 0.978
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.7375,
+                    "bbox": [
+                        43,
+                        143,
+                        345,
+                        157
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                145,
+                                343,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        145,
+                                        343,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "L’épreuve comporte trois exercices et un problème, le tout sur",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        46,
+                        145,
+                        343,
+                        157
+                    ]
+                },
+                {
+                    "score": 0.5345,
+                    "bbox": [
+                        44,
+                        156,
+                        186,
+                        171
+                    ],
+                    "index": 4,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                157,
+                                184,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        157,
+                                        184,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 1 (3,25 points)",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9593,
+                    "bbox": [
+                        42,
+                        170,
+                        469,
+                        217
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                171,
+                                468,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        187,
+                                        189,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Soit à résoudre le système :",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        192,
+                                        171,
+                                        277,
+                                        216
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left\\{ \\begin{array} { l l } { x = \\sqrt { 2 y + 3 } } \\\\ { y = \\sqrt { 2 z + 3 } } \\\\ { z = \\sqrt { 2 x + 3 } } \\end{array} \\right.",
+                                    "score": 0.9571
+                                },
+                                {
+                                    "bbox": [
+                                        285,
+                                        188,
+                                        468,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "où x, y et z sont des nombres réels.",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        45,
+                        171,
+                        468,
+                        216
+                    ]
+                },
+                {
+                    "score": 0.6903,
+                    "bbox": [
+                        57,
+                        220,
+                        295,
+                        236
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                222,
+                                293,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        222,
+                                        293,
+                                        234
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Première approche : série E uniquement.",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        222,
+                        293,
+                        234
+                    ]
+                },
+                {
+                    "score": 0.896,
+                    "bbox": [
+                        77,
+                        240,
+                        544,
+                        256
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                240,
+                                543,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        241,
+                                        216,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Montrer que le triplet",
+                                    "score": 0.994
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        240,
+                                        255,
+                                        255
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( 3 , 3 , 3 \\right)",
+                                    "score": 0.8366
+                                },
+                                {
+                                    "bbox": [
+                                        258,
+                                        243,
+                                        420,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système.",
+                                    "score": 0.983
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        241,
+                                        543,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        79,
+                        240,
+                        543,
+                        257
+                    ]
+                },
+                {
+                    "score": 0.93,
+                    "bbox": [
+                        77,
+                        259,
+                        543,
+                        289
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                260,
+                                514,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        261,
+                                        226,
+                                        274
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        260,
+                                        267,
+                                        275
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "( x , y , z )",
+                                    "score": 0.7958
+                                },
+                                {
+                                    "bbox": [
+                                        269,
+                                        260,
+                                        514,
+                                        274
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système, on ne peut pas",
+                                    "score": 0.976
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                275,
+                                543,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        275,
+                                        129,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "avoir",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        275,
+                                        162,
+                                        288
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x < 3",
+                                    "score": 0.8018
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        275,
+                                        543,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        79,
+                        260,
+                        543,
+                        290
+                    ]
+                },
+                {
+                    "score": 0.9198,
+                    "bbox": [
+                        78,
+                        293,
+                        543,
+                        323
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                293,
+                                514,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        295,
+                                        227,
+                                        307
+                                    ],
+                                    "type": "text",
+                                    "content": "(c) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        293,
+                                        267,
+                                        308
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( x , y , z \\right)",
+                                    "score": 0.7995
+                                },
+                                {
+                                    "bbox": [
+                                        269,
+                                        294,
+                                        514,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "est une solution de ce système, on ne peut pas",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                308,
+                                543,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        309,
+                                        129,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "avoir",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        308,
+                                        162,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x > 3 .",
+                                    "score": 0.7645
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        308,
+                                        543,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        81,
+                        293,
+                        543,
+                        323
+                    ]
+                },
+                {
+                    "score": 0.8835,
+                    "bbox": [
+                        77,
+                        326,
+                        543,
+                        342
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                326,
+                                544,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        327,
+                                        357,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "(d) Déduire alors l’ensemble solution de ce système.",
+                                    "score": 0.981
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        326,
+                                        544,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,5pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        78,
+                        326,
+                        544,
+                        343
+                    ]
+                },
+                {
+                    "score": 0.4628,
+                    "bbox": [
+                        57,
+                        345,
+                        301,
+                        361
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                347,
+                                299,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        347,
+                                        299,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "2. Deuxième approche : série C uniquement",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9592,
+                    "bbox": [
+                        77,
+                        366,
+                        544,
+                        396
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                366,
+                                508,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        368,
+                                        226,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Montrer que si le triplet",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        366,
+                                        267,
+                                        381
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( x , y , z \\right)",
+                                    "score": 0.801
+                                },
+                                {
+                                    "bbox": [
+                                        270,
+                                        367,
+                                        508,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "est solution de ce système, alors x, y et z sont",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                100,
+                                381,
+                                543,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        383,
+                                        226,
+                                        394
+                                    ],
+                                    "type": "text",
+                                    "content": "solutions de l’équation :",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        499,
+                                        381,
+                                        543,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        80,
+                        366,
+                        543,
+                        396
+                    ]
+                },
+                {
+                    "score": 0.9476,
+                    "bbox": [
+                        212,
+                        405,
+                        428,
+                        422
+                    ],
+                    "index": 13,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                405,
+                                428,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        405,
+                                        428,
+                                        422
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "t ^ { 8 } - 1 2 t ^ { 6 } + 3 0 t ^ { 4 } + 3 6 t ^ { 2 } - 1 2 8 t - 1 8 3 = 0 .",
+                                    "image_path": "8c24fa5e4c276aa6539f1de491a14601972ef400ff557abf9588af83b4f6a509.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.63,
+                    "bbox": [
+                        77,
+                        436,
+                        543,
+                        452
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                436,
+                                544,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        437,
+                                        345,
+                                        452
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) En déduire les valeurs rationnelles de x, y et z.",
+                                    "score": 0.996
+                                },
+                                {
+                                    "bbox": [
+                                        510,
+                                        436,
+                                        544,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": "[2pts]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        79,
+                        436,
+                        544,
+                        453
+                    ]
+                },
+                {
+                    "score": 0.8287,
+                    "bbox": [
+                        43,
+                        455,
+                        171,
+                        469
+                    ],
+                    "index": 15,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                457,
+                                169,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        457,
+                                        169,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 2 (3 points)",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9484,
+                    "bbox": [
+                        42,
+                        469,
+                        508,
+                        499
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                470,
+                                506,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        471,
+                                        178,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "– On dit que deux suites",
+                                    "score": 0.995
+                                },
+                                {
+                                    "bbox": [
+                                        180,
+                                        470,
+                                        202,
+                                        484
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.834
+                                },
+                                {
+                                    "bbox": [
+                                        203,
+                                        471,
+                                        218,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "et",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        470,
+                                        240,
+                                        484
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.901
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        471,
+                                        506,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "sont dites adjacentes lorsque : l’une est croissante,",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                485,
+                                395,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        485,
+                                        167,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "l’autre décroissate et",
+                                    "score": 0.989
+                                },
+                                {
+                                    "bbox": [
+                                        168,
+                                        487,
+                                        208,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "u _ { n } - v _ { n }",
+                                    "score": 0.9306
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        486,
+                                        395,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "tend vers 0 quand n tend vers +∞.",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        44,
+                        470,
+                        506,
+                        498
+                    ]
+                },
+                {
+                    "score": 0.9439,
+                    "bbox": [
+                        43,
+                        498,
+                        487,
+                        529
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                498,
+                                487,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        498,
+                                        70,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "- Si",
+                                    "score": 0.969
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        499,
+                                        93,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.6722
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        498,
+                                        108,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "et",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        108,
+                                        499,
+                                        130,
+                                        513
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.55
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        498,
+                                        332,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "sont deux suites adjacentes telles que",
+                                    "score": 0.987
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        499,
+                                        355,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( u _ { n } \\right)",
+                                    "score": 0.87
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        498,
+                                        444,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "est croissante et",
+                                    "score": 0.998
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        499,
+                                        466,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( v _ { n } \\right)",
+                                    "score": 0.6973
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        498,
+                                        487,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "est",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                514,
+                                293,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        514,
+                                        218,
+                                        527
+                                    ],
+                                    "type": "text",
+                                    "content": "décroissante, alors pour tout n",
+                                    "score": 0.991
+                                },
+                                {
+                                    "bbox": [
+                                        219,
+                                        514,
+                                        293,
+                                        528
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\in \\mathbb { N } , u _ { n } \\le v _ { n }",
+                                    "score": 0.8968
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        43,
+                        498,
+                        487,
+                        528
+                    ]
+                },
+                {
+                    "score": 0.7307,
+                    "bbox": [
+                        56,
+                        534,
+                        371,
+                        550
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                536,
+                                369,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        536,
+                                        369,
+                                        549
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Compléter les phrase ci-après avec le mot qui convient :",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        536,
+                        369,
+                        549
+                    ]
+                },
+                {
+                    "score": 0.746,
+                    "bbox": [
+                        77,
+                        552,
+                        543,
+                        569
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                553,
+                                544,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        554,
+                                        393,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "(a) Toute suite croissante et majorée est ........ ...........",
+                                    "score": 0.962
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        553,
+                                        544,
+                                        570
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        81,
+                        553,
+                        544,
+                        570
+                    ]
+                },
+                {
+                    "score": 0.7793,
+                    "bbox": [
+                        77,
+                        572,
+                        543,
+                        588
+                    ],
+                    "index": 20,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                573,
+                                543,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        573,
+                                        410,
+                                        587
+                                    ],
+                                    "type": "text",
+                                    "content": "(b) Toute suite décroissante et . .. . .. . ... . .. . .. est convergente",
+                                    "score": 0.947
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        573,
+                                        543,
+                                        588
+                                    ],
+                                    "type": "text",
+                                    "content": "[0,25pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        79,
+                        573,
+                        543,
+                        588
+                    ]
+                },
+                {
+                    "score": 0.9772,
+                    "bbox": [
+                        56,
+                        591,
+                        544,
+                        635
+                    ],
+                    "index": 21,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                593,
+                                520,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        593,
+                                        520,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "2. Indiquer si la proposition ci-après est vraie ou fausse et proposer une démonstration",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                72,
+                                607,
+                                510,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        607,
+                                        510,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": "pour la réponse indiquée : « Deux suite adjacentes sont convergentes et elles ont la",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                621,
+                                543,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        623,
+                                        153,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "même limite ».",
+                                    "score": 0.985
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        621,
+                                        543,
+                                        636
+                                    ],
+                                    "type": "text",
+                                    "content": "[1,5pt]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        593,
+                        543,
+                        636
+                    ]
+                },
+                {
+                    "score": 0.9646,
+                    "bbox": [
+                        56,
+                        638,
+                        507,
+                        668
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                639,
+                                506,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        639,
+                                        454,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "3. Relier en justifiant votre choix la courbe (C) de la colone (I) à la courbe",
+                                    "score": 0.993
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        639,
+                                        475,
+                                        654
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "( C ^ { \\prime } )",
+                                    "score": 0.6331
+                                },
+                                {
+                                    "bbox": [
+                                        476,
+                                        639,
+                                        506,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "de la",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                655,
+                                143,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        655,
+                                        143,
+                                        668
+                                    ],
+                                    "type": "text",
+                                    "content": "colonne (II).",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        58,
+                        639,
+                        506,
+                        668
+                    ]
+                },
+                {
+                    "score": 0.8857,
+                    "bbox": [
+                        43,
+                        674,
+                        186,
+                        688
+                    ],
+                    "index": 23,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                675,
+                                184,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        675,
+                                        184,
+                                        689
+                                    ],
+                                    "type": "text",
+                                    "content": "EXERCICE 3 (3,75 points)",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        42,
+                        688,
+                        538,
+                        746
+                    ],
+                    "index": 24,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                688,
+                                487,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        689,
+                                        129,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "On désigne par",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        689,
+                                        163,
+                                        704
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathcal { L } ( \\mathbb { R } ^ { 2 } )",
+                                    "score": 0.9073
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        689,
+                                        336,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": ", la famille des endomorphismes",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        336,
+                                        690,
+                                        350,
+                                        704
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "f _ { \\lambda }",
+                                    "score": 0.8898
+                                },
+                                {
+                                    "bbox": [
+                                        350,
+                                        689,
+                                        367,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "de",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        367,
+                                        688,
+                                        384,
+                                        702
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbb { R } ^ { 2 }",
+                                    "score": 0.8963
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        689,
+                                        466,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "dont la matrice",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        469,
+                                        690,
+                                        487,
+                                        703
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "M _ { \\lambda }",
+                                    "score": 0.8587
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                703,
+                                536,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        711,
+                                        220,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "relativement à la base canonique",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        220,
+                                        711,
+                                        243,
+                                        726
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( \\imath , \\jmath \\right)",
+                                    "score": 0.8801
+                                },
+                                {
+                                    "bbox": [
+                                        243,
+                                        711,
+                                        261,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "de",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        261,
+                                        709,
+                                        277,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbb { R } ^ { 2 }",
+                                    "score": 0.901
+                                },
+                                {
+                                    "bbox": [
+                                        278,
+                                        711,
+                                        359,
+                                        725
+                                    ],
+                                    "type": "text",
+                                    "content": "est de la forme",
+                                    "score": 0.979
+                                },
+                                {
+                                    "bbox": [
+                                        362,
+                                        703,
+                                        471,
+                                        733
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\left( \\begin{array} { c c } { { - 1 + \\lambda } } & { { 1 + \\lambda } } \\\\ { { \\lambda ( 1 - \\lambda ) } } & { { \\lambda } } \\end{array} \\right)",
+                                    "score": 0.9598
+                                },
+                                {
+                                    "bbox": [
+                                        475,
+                                        712,
+                                        536,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": "où λ est un",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                42,
+                                732,
+                                70,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        732,
+                                        70,
+                                        747
+                                    ],
+                                    "type": "text",
+                                    "content": "réel.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        42,
+                        688,
+                        536,
+                        747
+                    ]
+                },
+                {
+                    "score": 0.9528,
+                    "bbox": [
+                        57,
+                        750,
+                        369,
+                        767
+                    ],
+                    "index": 25,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                751,
+                                366,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        753,
+                                        198,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "1. A quelle conditions sur",
+                                    "score": 0.976
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        751,
+                                        226,
+                                        766
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\lambda , f _ { \\lambda }",
+                                    "score": 0.9196
+                                },
+                                {
+                                    "bbox": [
+                                        228,
+                                        753,
+                                        366,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "est-il un automorphisme?",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        751,
+                        366,
+                        766
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.5"
+}

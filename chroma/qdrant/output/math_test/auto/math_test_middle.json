@@ -1,0 +1,1631 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.954,
+                    "bbox": [
+                        70,
+                        185,
+                        195,
+                        201
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                186,
+                                195,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        186,
+                                        195,
+                                        202
+                                    ],
+                                    "type": "text",
+                                    "content": "1 Basic Algebra",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9441,
+                    "bbox": [
+                        69,
+                        212,
+                        195,
+                        225
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                213,
+                                194,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        213,
+                                        194,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "The quadratic formula is:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9573,
+                    "bbox": [
+                        254,
+                        224,
+                        355,
+                        253
+                    ],
+                    "index": 4,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                254,
+                                224,
+                                355,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        224,
+                                        355,
+                                        253
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "x = { \\frac { - b \\pm { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } }\\tag{1}",
+                                    "image_path": "16e37f2e96185b9969257da0a58504fc8bf2852c8971ea04d77e94859c41f266.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9513,
+                    "bbox": [
+                        69,
+                        264,
+                        158,
+                        279
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                263,
+                                156,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        263,
+                                        156,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "2 Calculus",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9443,
+                    "bbox": [
+                        69,
+                        291,
+                        215,
+                        304
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                292,
+                                213,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        292,
+                                        213,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "The definition of a derivative:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9624,
+                    "bbox": [
+                        235,
+                        299,
+                        374,
+                        327
+                    ],
+                    "index": 8,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                299,
+                                374,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        299,
+                                        374,
+                                        327
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "f ^ { \\prime } ( x ) = \\operatorname* { l i m } _ { h \\to 0 } { \\frac { f ( x + h ) - f ( x ) } { h } }\\tag{2}",
+                                    "image_path": "1dddb0e9b5b46a7e702b3433abb4a5cd6376ba9ac9de210dfcbf52c5b8f81ac1.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9416,
+                    "bbox": [
+                        86,
+                        329,
+                        180,
+                        342
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                329,
+                                178,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        329,
+                                        178,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "A definite integral:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9571,
+                    "bbox": [
+                        263,
+                        339,
+                        348,
+                        369
+                    ],
+                    "index": 11,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                263,
+                                339,
+                                348,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        263,
+                                        339,
+                                        348,
+                                        369
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\int _ { 0 } ^ { \\pi } \\sin ( x ) d x = 2\\tag{3}",
+                                    "image_path": "dcc129b15dff64dac92a2560e97a8592983ae9dc4c1611ea70aa4a67bd136793.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.951,
+                    "bbox": [
+                        69,
+                        381,
+                        204,
+                        397
+                    ],
+                    "index": 13,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                380,
+                                203,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        380,
+                                        203,
+                                        397
+                                    ],
+                                    "type": "text",
+                                    "content": "3 Linear Algebra",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.945,
+                    "bbox": [
+                        69,
+                        408,
+                        218,
+                        421
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                409,
+                                216,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        409,
+                                        216,
+                                        420
+                                    ],
+                                    "type": "text",
+                                    "content": "A matrix and its determinant:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9644,
+                    "bbox": [
+                        223,
+                        424,
+                        387,
+                        452
+                    ],
+                    "index": 15,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                223,
+                                424,
+                                387,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        424,
+                                        387,
+                                        452
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "A = { \\binom { a } { c } } \\ b \\quad \\operatorname* { d e t } ( A ) = a d - b c\\tag{4}",
+                                    "image_path": "ba6f91bf476ef8ba049e0782c8c8eae1fbcdb58a753a99f6776c1d79dbedd63e.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9503,
+                    "bbox": [
+                        69,
+                        467,
+                        177,
+                        483
+                    ],
+                    "index": 17,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                467,
+                                175,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        467,
+                                        175,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "4 Probability",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9515,
+                    "bbox": [
+                        68,
+                        493,
+                        327,
+                        507
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                495,
+                                325,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        495,
+                                        325,
+                                        506
+                                    ],
+                                    "type": "text",
+                                    "content": "The normal distribution probability density function:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9612,
+                    "bbox": [
+                        245,
+                        511,
+                        364,
+                        539
+                    ],
+                    "index": 19,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                511,
+                                364,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        511,
+                                        364,
+                                        539
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "f ( x ) = { \\frac { 1 } { \\sigma { \\sqrt { 2 \\pi } } } } e ^ { - { \\frac { 1 } { 2 } } \\left( { \\frac { x - \\mu } { \\sigma } } \\right) ^ { 2 } }\\tag{5}",
+                                    "image_path": "ed4d27e42a50f68890364de3cbf4c111b4944336b0c9bd54f55ca155a35fd8c7.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.941,
+                    "bbox": [
+                        69,
+                        552,
+                        139,
+                        567
+                    ],
+                    "index": 21,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                551,
+                                138,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        551,
+                                        138,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "5 Series",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.947,
+                    "bbox": [
+                        69,
+                        579,
+                        252,
+                        592
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                580,
+                                250,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        580,
+                                        250,
+                                        591
+                                    ],
+                                    "type": "text",
+                                    "content": "Euler’s identity and an infinite series:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9266,
+                    "bbox": [
+                        277,
+                        592,
+                        334,
+                        605
+                    ],
+                    "index": 23,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                277,
+                                592,
+                                334,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        277,
+                                        592,
+                                        334,
+                                        605
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "e ^ { i \\pi } + 1 = 0\\tag{6}",
+                                    "image_path": "edfcedb8eb05f9940d7d9a717f9ff273abdd0ebd354cef069cc5733b25cdce26.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9545,
+                    "bbox": [
+                        273,
+                        619,
+                        336,
+                        655
+                    ],
+                    "index": 25,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                619,
+                                336,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        619,
+                                        336,
+                                        655
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\sum _ { n = 1 } ^ { \\infty } { \\frac { 1 } { n ^ { 2 } } } = { \\frac { \\pi ^ { 2 } } { 6 } }\\tag{7}",
+                                    "image_path": "b17b591994f9b2f877c049ecc13bacd842492f9931e4f0cd308ff6065cb244c0.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9536,
+                    "bbox": [
+                        69,
+                        668,
+                        182,
+                        683
+                    ],
+                    "index": 27,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                667,
+                                180,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        667,
+                                        180,
+                                        683
+                                    ],
+                                    "type": "text",
+                                    "content": "6 Inline Math",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9715,
+                    "bbox": [
+                        68,
+                        695,
+                        541,
+                        724
+                    ],
+                    "index": 28,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                694,
+                                540,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        696,
+                                        273,
+                                        707
+                                    ],
+                                    "type": "text",
+                                    "content": "Here is some text with an inline formula,",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        694,
+                                        325,
+                                        707
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "E = m c ^ { 2 }",
+                                    "score": 0.923
+                                },
+                                {
+                                    "bbox": [
+                                        325,
+                                        696,
+                                        540,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": ", embedded directly in a sentence. Another",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                708,
+                                415,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        711,
+                                        223,
+                                        722
+                                    ],
+                                    "type": "text",
+                                    "content": "inline example: the golden ratio",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        226,
+                                        708,
+                                        273,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\textstyle \\varphi = { \\frac { 1 + { \\sqrt { 5 } } } { 2 } }",
+                                    "score": 0.939
+                                },
+                                {
+                                    "bbox": [
+                                        277,
+                                        711,
+                                        415,
+                                        721
+                                    ],
+                                    "type": "text",
+                                    "content": "appears frequently in nature.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.8557,
+                    "bbox": [
+                        149,
+                        111,
+                        461,
+                        131
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                111,
+                                459,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        111,
+                                        459,
+                                        131
+                                    ],
+                                    "type": "text",
+                                    "content": "Sample Math Document for Docling Testing",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8588,
+                    "bbox": [
+                        302,
+                        741,
+                        309,
+                        751
+                    ],
+                    "index": 29,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                302,
+                                741,
+                                308,
+                                752
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        741,
+                                        308,
+                                        752
+                                    ],
+                                    "type": "text",
+                                    "content": "1",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.954,
+                    "bbox": [
+                        70,
+                        185,
+                        195,
+                        201
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                186,
+                                195,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        186,
+                                        195,
+                                        202
+                                    ],
+                                    "type": "text",
+                                    "content": "1 Basic Algebra",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9441,
+                    "bbox": [
+                        69,
+                        212,
+                        195,
+                        225
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                213,
+                                194,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        213,
+                                        194,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "The quadratic formula is:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        213,
+                        194,
+                        225
+                    ]
+                },
+                {
+                    "score": 0.9573,
+                    "bbox": [
+                        254,
+                        224,
+                        355,
+                        253
+                    ],
+                    "index": 4,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                254,
+                                224,
+                                355,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        224,
+                                        355,
+                                        253
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "x = { \\frac { - b \\pm { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } }\\tag{1}",
+                                    "image_path": "16e37f2e96185b9969257da0a58504fc8bf2852c8971ea04d77e94859c41f266.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9513,
+                    "bbox": [
+                        69,
+                        264,
+                        158,
+                        279
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                263,
+                                156,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        263,
+                                        156,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "2 Calculus",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9443,
+                    "bbox": [
+                        69,
+                        291,
+                        215,
+                        304
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                292,
+                                213,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        292,
+                                        213,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "The definition of a derivative:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        72,
+                        292,
+                        213,
+                        303
+                    ]
+                },
+                {
+                    "score": 0.9624,
+                    "bbox": [
+                        235,
+                        299,
+                        374,
+                        327
+                    ],
+                    "index": 8,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                299,
+                                374,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        299,
+                                        374,
+                                        327
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "f ^ { \\prime } ( x ) = \\operatorname* { l i m } _ { h \\to 0 } { \\frac { f ( x + h ) - f ( x ) } { h } }\\tag{2}",
+                                    "image_path": "1dddb0e9b5b46a7e702b3433abb4a5cd6376ba9ac9de210dfcbf52c5b8f81ac1.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9416,
+                    "bbox": [
+                        86,
+                        329,
+                        180,
+                        342
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                329,
+                                178,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        329,
+                                        178,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "A definite integral:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        87,
+                        329,
+                        178,
+                        342
+                    ]
+                },
+                {
+                    "score": 0.9571,
+                    "bbox": [
+                        263,
+                        339,
+                        348,
+                        369
+                    ],
+                    "index": 11,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                263,
+                                339,
+                                348,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        263,
+                                        339,
+                                        348,
+                                        369
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\int _ { 0 } ^ { \\pi } \\sin ( x ) d x = 2\\tag{3}",
+                                    "image_path": "dcc129b15dff64dac92a2560e97a8592983ae9dc4c1611ea70aa4a67bd136793.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.951,
+                    "bbox": [
+                        69,
+                        381,
+                        204,
+                        397
+                    ],
+                    "index": 13,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                380,
+                                203,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        380,
+                                        203,
+                                        397
+                                    ],
+                                    "type": "text",
+                                    "content": "3 Linear Algebra",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.945,
+                    "bbox": [
+                        69,
+                        408,
+                        218,
+                        421
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                409,
+                                216,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        409,
+                                        216,
+                                        420
+                                    ],
+                                    "type": "text",
+                                    "content": "A matrix and its determinant:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        409,
+                        216,
+                        420
+                    ]
+                },
+                {
+                    "score": 0.9644,
+                    "bbox": [
+                        223,
+                        424,
+                        387,
+                        452
+                    ],
+                    "index": 15,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                223,
+                                424,
+                                387,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        424,
+                                        387,
+                                        452
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "A = { \\binom { a } { c } } \\ b \\quad \\operatorname* { d e t } ( A ) = a d - b c\\tag{4}",
+                                    "image_path": "ba6f91bf476ef8ba049e0782c8c8eae1fbcdb58a753a99f6776c1d79dbedd63e.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9503,
+                    "bbox": [
+                        69,
+                        467,
+                        177,
+                        483
+                    ],
+                    "index": 17,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                467,
+                                175,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        467,
+                                        175,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "4 Probability",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9515,
+                    "bbox": [
+                        68,
+                        493,
+                        327,
+                        507
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                495,
+                                325,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        495,
+                                        325,
+                                        506
+                                    ],
+                                    "type": "text",
+                                    "content": "The normal distribution probability density function:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        495,
+                        325,
+                        506
+                    ]
+                },
+                {
+                    "score": 0.9612,
+                    "bbox": [
+                        245,
+                        511,
+                        364,
+                        539
+                    ],
+                    "index": 19,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                511,
+                                364,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        511,
+                                        364,
+                                        539
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "f ( x ) = { \\frac { 1 } { \\sigma { \\sqrt { 2 \\pi } } } } e ^ { - { \\frac { 1 } { 2 } } \\left( { \\frac { x - \\mu } { \\sigma } } \\right) ^ { 2 } }\\tag{5}",
+                                    "image_path": "ed4d27e42a50f68890364de3cbf4c111b4944336b0c9bd54f55ca155a35fd8c7.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.941,
+                    "bbox": [
+                        69,
+                        552,
+                        139,
+                        567
+                    ],
+                    "index": 21,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                551,
+                                138,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        551,
+                                        138,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "5 Series",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.947,
+                    "bbox": [
+                        69,
+                        579,
+                        252,
+                        592
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                580,
+                                250,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        580,
+                                        250,
+                                        591
+                                    ],
+                                    "type": "text",
+                                    "content": "Euler’s identity and an infinite series:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        580,
+                        250,
+                        591
+                    ]
+                },
+                {
+                    "score": 0.9266,
+                    "bbox": [
+                        277,
+                        592,
+                        334,
+                        605
+                    ],
+                    "index": 23,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                277,
+                                592,
+                                334,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        277,
+                                        592,
+                                        334,
+                                        605
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "e ^ { i \\pi } + 1 = 0\\tag{6}",
+                                    "image_path": "edfcedb8eb05f9940d7d9a717f9ff273abdd0ebd354cef069cc5733b25cdce26.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9545,
+                    "bbox": [
+                        273,
+                        619,
+                        336,
+                        655
+                    ],
+                    "index": 25,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                619,
+                                336,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        619,
+                                        336,
+                                        655
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\sum _ { n = 1 } ^ { \\infty } { \\frac { 1 } { n ^ { 2 } } } = { \\frac { \\pi ^ { 2 } } { 6 } }\\tag{7}",
+                                    "image_path": "b17b591994f9b2f877c049ecc13bacd842492f9931e4f0cd308ff6065cb244c0.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9536,
+                    "bbox": [
+                        69,
+                        668,
+                        182,
+                        683
+                    ],
+                    "index": 27,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                667,
+                                180,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        667,
+                                        180,
+                                        683
+                                    ],
+                                    "type": "text",
+                                    "content": "6 Inline Math",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9715,
+                    "bbox": [
+                        68,
+                        695,
+                        541,
+                        724
+                    ],
+                    "index": 28,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                694,
+                                540,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        696,
+                                        273,
+                                        707
+                                    ],
+                                    "type": "text",
+                                    "content": "Here is some text with an inline formula,",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        694,
+                                        325,
+                                        707
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "E = m c ^ { 2 }",
+                                    "score": 0.923
+                                },
+                                {
+                                    "bbox": [
+                                        325,
+                                        696,
+                                        540,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": ", embedded directly in a sentence. Another",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                708,
+                                415,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        711,
+                                        223,
+                                        722
+                                    ],
+                                    "type": "text",
+                                    "content": "inline example: the golden ratio",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        226,
+                                        708,
+                                        273,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\textstyle \\varphi = { \\frac { 1 + { \\sqrt { 5 } } } { 2 } }",
+                                    "score": 0.939
+                                },
+                                {
+                                    "bbox": [
+                                        277,
+                                        711,
+                                        415,
+                                        721
+                                    ],
+                                    "type": "text",
+                                    "content": "appears frequently in nature.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        694,
+                        540,
+                        723
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.5"
+}

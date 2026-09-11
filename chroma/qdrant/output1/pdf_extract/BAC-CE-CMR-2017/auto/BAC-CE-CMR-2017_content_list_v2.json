@@ -1,0 +1,1980 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Durée : 4h Coefficient : 5(C)/4(E)"
+                    }
+                ]
+            },
+            "bbox": [
+                610,
+                121,
+                921,
+                139
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Exercice 1 (Série C uniquement) 5 points"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                75,
+                166,
+                616,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. (a) Vérifier que le couple "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 ; - 7 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une solution de l’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E ) : 1 3 x + 7 y = 1 6 ."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                203,
+                878,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Déterminer les couples d’entiers relatifs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x ; y )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "vérifiant l’équation (E)."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                224,
+                791,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. (a) Démontrer que, pour tout entier naturel "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n , 4 ^ { 2 n } \\equiv 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(mod 5)."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                247,
+                704,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Déterminer le reste de la division euclidienne de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 1 4 ^ { 2 0 1 5 } \\operatorname { p a r } 5"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                268,
+                732,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. p désigne un entier naturel supérieur à 1. Une urne contient "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "boules numérotées de 1 à "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "toutes indiscernables au toucher. Un joueur tire successivement et sans remise 2 boules de cette urne."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                292,
+                922,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Quel est le nombre de résultats possibles ?"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                348,
+                546,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Si les boules tirées portent des numéros pairs, il gagne 800 F CFA. Si les boules tirées sont de parités différentes, il gagne 400 F CFA et il perd 800 F CFA si elles portent des numéros impairs. On désigne par X le gain algébrique du joueur à l’issue de chaque épreuve."
+                    }
+                ]
+            },
+            "bbox": [
+                156,
+                370,
+                924,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Déterminer la loi de probabilité de X en fonction de p."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                445,
+                652,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Calculer l’espérance mathématique de X en fonction de p."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                467,
+                685,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) Calculer p pour que l’espérance de gain du joueur soit de 240 F CFA."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                489,
+                781,
+                508
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Exercice 2 (Série E uniquement) 5 points"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                75,
+                535,
+                613,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E est un espace vectoriel sur R dont une base est "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B = ( \\vec { \\imath } , \\ \\vec { \\jmath } , \\ \\vec { k } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Soit f l’endomorphisme de E qui à tout vecteur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\vec { u } = x \\vec { \\imath } + y \\vec { \\jmath } + z \\vec { k }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "associe le vecteur :"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                574,
+                922,
+                613
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f ( \\vec { u } ) = ( - x - y + 2 z ) \\vec { \\imath } + ( 2 x - y + z ) \\vec { \\jmath } + ( x - 2 y + 3 z ) \\vec { k }",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0862e361c6f76caed86bc32e81b41ec7fc9e7056f98d496fa450eea059041fb8.jpg"
+                }
+            },
+            "bbox": [
+                248,
+                625,
+                747,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Déterminer la matrice de f dans la base B."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                657,
+                515,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. (a) Déterminer le noyau ker f de f (on donnera une base de ker f)."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                680,
+                729,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) En déduire la dimension de Im f , image de f ."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                702,
+                574,
+                721
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) f est-elle bijective ? Justifier votre réponse."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                725,
+                547,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. On considère les vecteurs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\vec { e } _ { 1 } = 2 \\vec { \\jmath } - \\vec { k } , \\vec { e } _ { 2 } = 3 \\vec { \\imath } + \\vec { \\jmath } + \\vec { k } \\mathrm { e t } \\vec { e } _ { 3 } = \\vec { \\imath } - \\vec { k } ."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                746,
+                721,
+                768
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Démontrer que la famille "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B ^ { \\prime } = ( \\vec { e } _ { 1 } ; \\vec { e } _ { 2 } ; \\vec { e } _ { 3 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une base de l’espace vectoriel E."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                771,
+                848,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Déterminer la matrice de f dans la base B<sup>0</sup>."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                794,
+                549,
+                812
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Exercice 3 (5 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                75,
+                839,
+                344,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Soit ABCD un carré de sens direct et de centre I."
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                876,
+                510,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Partie A. Soient "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r = R ( A , { \\frac { \\pi } { 2 } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la rotation de centre A et d’angle "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { \\frac { \\pi } { 2 } , t = t \\frac { \\pi } { A \\vec { C } } } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la translation de vecteur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow { A C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S = S _ { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la symétrie centrale de centre C."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                897,
+                922,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "POWERED BY EASY-MATHS PARTNERSHIP"
+                    }
+                ]
+            },
+            "bbox": [
+                689,
+                960,
+                915,
+                975
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Retyped by P. Njionou Sadjang"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                34,
+                357,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "E-M LASYMATHS"
+                    }
+                ]
+            },
+            "bbox": [
+                472,
+                26,
+                521,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Be ready for your Exam"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                34,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ministère des Enseignements Secondaires Office du Baccalauréat du Cameroon www.easy-maths.org"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                68,
+                468,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Examen : Baccalauréat 2017 Série C-E"
+                    }
+                ]
+            },
+            "bbox": [
+                667,
+                68,
+                922,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Epreuve : Mathématiques"
+                    }
+                ]
+            },
+            "bbox": [
+                678,
+                104,
+                922,
+                122
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Baccalauréat C& E, Juin 2017"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                960,
+                223,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.easy-maths.org"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                960,
+                581,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. (a) Déterminer la droite (∆) telle que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r = S _ { \\Delta } \\circ S _ { ( A D ) }"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                86,
+                636,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Donner la nature et les éléments caractéristiques de t ◦ r."
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                108,
+                700,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. (a) Déterminer "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( S \\circ t \\circ r ) ( A )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( S \\circ t \\circ r ) ( D )"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                130,
+                569,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Donner la nature et les éléments caractéristiques de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S \\circ t \\circ r ."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                153,
+                731,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Partie B. Soient M un point de la droite (DC), N le point d’intersection de la droite (BC) avec la perpendiculaire à la droite (AM) passant par A, et J le milieu du segment [MN]. Soit "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la rotation de centre A telle que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { B ^ { \\prime } } = r ^ { \\prime } ( D ) \\bar { }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la similitude directe de centre A telle que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I = S ^ { \\prime } ( D )"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                175,
+                922,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Montrer que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N = r ^ { \\prime } ( M )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". En déduire la nature du triangle AMN."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                249,
+                746,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. (a) Déterminer l’image de C par "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S ^ { \\prime } ."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                272,
+                484,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Démontrer que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "J = S ^ { \\prime } ( M )"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                294,
+                438,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Déduire le lieu géométrique des points J lorsque M décrit la droite (DC)."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                317,
+                848,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. (a) Donner la nature de l’ensemble (Γ) des points M du plan tels que "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d ( M , C ) = \\frac { 1 } { \\sqrt { 2 } } d ( M , ( B D ) )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                340,
+                921,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Donner la nature, l’excentricité, une directrice et un foyer de l’image "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\Gamma ^ { \\prime } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de (Γ) par "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S ^ { \\prime } ."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                395,
+                919,
+                432
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Problème (10 points)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                75,
+                458,
+                356,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Partie A. On se place dans l’espace muni d’un repère orthonormé direct "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { O } , \\vec { u } , \\vec { v } , \\vec { w } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". On considère les points "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ( 1 ; 6 ; 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", B(2; 5; 3), C(3; 1; 1) et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D ( 8 ; 1 ; 7 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". On pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\vec { N } = \\overrightarrow { A B } \\wedge \\overrightarrow { A C }"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                495,
+                921,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. (a) Déterminer les coordonnées de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\vec { N } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". En déduire que les points A, B et C ne sont pas alignés."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                539,
+                922,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Déterminer l’aire du triangle ABC."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                580,
+                509,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Soit (∆) la droite passant par le point D et de vecteur directeur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\vec { u } ( 2 ; - 1 ; 3 )"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                601,
+                828,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Démontrer que la droite (∆) est orthogonale au plan (ABC)."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                624,
+                736,
+                643
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) En déduire une équation cartésienne du plan (ABC)."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                646,
+                670,
+                665
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Déterminer une représentation paramétrique de la droite (∆)."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                670,
+                747,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) Déterminer les coordonnées du point "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "intersection de la droite (∆) et du plan (ABC)."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                692,
+                921,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. On note H le projeté orthogonal de D sur le plan (ABC)."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                731,
+                670,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) On pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow { D H } = \\alpha \\vec { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Calculer α."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                755,
+                477,
+                775
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) En déduire la distance DH et le volume du tétraèdre ABCD."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                780,
+                736,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Soit "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( P _ { 1 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "le plan d’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x + y + z - 6 = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et (P<sub>2</sub>) le plan d’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x + 4 y - 7 = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                802,
+                919,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Démontrer que les plans "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( P _ { 1 } \\right) \\mathrm { e t } \\left( P _ { 2 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sont sécants."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                825,
+                642,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Vérifier que la droite (d), intersection des plans "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( P _ { 1 } \\right)"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( P _ { 2 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", admet pour représen-"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                846,
+                922,
+                883
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array} { l l } { x = - 4 t - 1 } \\\\ { y = t + 2 , \\quad t \\in \\mathbb { R } } \\\\ { z = 3 t + 5 } \\end{array} \\right.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/76b2d108e84507bb0ef01e030252cdc8049131fd09e8ba8fb96a022acd656497.jpg"
+                }
+            },
+            "bbox": [
+                458,
+                896,
+                640,
+                959
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "POWERED BY EASY-MATHS PARTNERSHIP"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                977,
+                914,
+                991
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Retyped by P. Njionou Sadjang"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                34,
+                357,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "EM EASY-MATHS"
+                    }
+                ]
+            },
+            "bbox": [
+                472,
+                26,
+                521,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Be ready for your Exam"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                34,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Baccalauréat C& E, Juin 2017"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                977,
+                223,
+                991
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.easy-maths.org"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                977,
+                581,
+                991
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) La droite (d) et le plan "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( A B C )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sont-ils sécants ou parallèles ?"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                85,
+                737,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Démontrer que la surface (S) d’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x ^ { 2 } - 2 x + y ^ { 2 } - 4 y + z ^ { 2 } - 4 = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est une sphère dont on précisera les éléments caractéristiques."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                107,
+                922,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Partie B. Soit (P) le plan de l’espace d’équation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z ~ = ~ 0 ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", rapporté au repère orthonormé "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( O ; \\vec { u } ; \\vec { v } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Soit f la fonction numérique de la variable réelle x définie sur l’intervalle "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\Delta } ] 0 ; + \\infty ["
+                    },
+                    {
+                        "type": "text",
+                        "content": "par :"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                148,
+                926,
+                200
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f ( x ) = 2 \\ln x - { \\frac { 3 } { x } } + 3",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d719025fbce2eef8da97f0a841828685bf0dd30d5d9e03cbc6aba9a90142b103.jpg"
+                }
+            },
+            "bbox": [
+                428,
+                198,
+                628,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On note "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( C _ { f } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "la courbe représentative de f dans le repère "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { O } , \\vec { u } , \\vec { v } \\right)"
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                236,
+                741,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. (a) Déterminer les limites de f aux bornes de son ensemble de définition."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                259,
+                820,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Étudier les variations de f et en déduire son signe."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                281,
+                650,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Tracer la courbe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( C _ { f } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "de f dans le repère orthonormé "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { O } , \\vec { u } , \\vec { v } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "du plan."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                304,
+                838,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. On considère la suite "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "définie par : "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "u _ { 0 } = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "u _ { n + 1 } = f ( u _ { n } )"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                326,
+                724,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Calculer "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "u _ { 1 } , u _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "et u<sub>3</sub> (on donnera l’arrondi d’ordre 2)."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                350,
+                672,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Démontrer que la suite "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est strictement croissante."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                372,
+                684,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Démontrer que pour tout entier naturel n : "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\leq u _ { n } \\leq 6 , 5 ."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                395,
+                704,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) En déduire que la suite "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( u _ { n } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "est convergente."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                417,
+                601,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Soient les équations différentielles "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textstyle ( E ) : y ^ { \\prime \\prime } + y ^ { \\prime } = 0 \\operatorname { e t } \\left( E ^ { \\prime } \\right) : y ^ { \\prime \\prime } + y ^ { \\prime } = { \\frac { ( 2 x - 3 ) ( x + 1 ) } { x ^ { 3 } } }"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                439,
+                889,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) Montrer que f est solution sur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "] 0 ; + \\infty [ \\mathrm { d e } \\left( E ^ { \\prime } \\right)"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                467,
+                613,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Résoudre (E) sur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "] 0 ; + \\infty [ ."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                489,
+                430,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Montrer qu’une fonction g est solution de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( E ^ { \\prime } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "si et seulement si g − f est solution de (E)."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                512,
+                921,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) Résoudre alors (E<sup>0</sup>) sur ]0; +∞[."
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                551,
+                484,
+                570
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Retyped by P. Njionou Sadjang"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                34,
+                357,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "EM EASY-MATHS"
+                    }
+                ]
+            },
+            "bbox": [
+                472,
+                26,
+                521,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Be ready for your Exam"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                34,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "POWERED BY EASY-MATHS PARTNERSHIP"
+                    }
+                ]
+            },
+            "bbox": [
+                689,
+                977,
+                915,
+                991
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Baccalauréat C& E, Juin 2017"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                977,
+                223,
+                991
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.easy-maths.org"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                976,
+                581,
+                991
+            ]
+        }
+    ]
+]

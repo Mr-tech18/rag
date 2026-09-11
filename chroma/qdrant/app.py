@@ -96,11 +96,7 @@ EXERCISES = [
 ]
 
 
-# ---------------------------------------------------------------------------
-# 3. Set up Qdrant, fully in-memory (no Docker, nothing persisted to disk)
-# ---------------------------------------------------------------------------
-client = QdrantClient(":memory:")
-            
+
 
 # ---------------------------------------------------------------------------
 # 3. Set up Qdrant, fully in-memory (no Docker, nothing persisted to disk)

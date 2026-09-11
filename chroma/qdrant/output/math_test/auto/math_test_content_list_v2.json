@@ -1,0 +1,393 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Basic Algebra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                233,
+                318,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The quadratic formula is:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                267,
+                318,
+                284
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "x = { \\frac { - b \\pm { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } }\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/16e37f2e96185b9969257da0a58504fc8bf2852c8971ea04d77e94859c41f266.jpg"
+                }
+            },
+            "bbox": [
+                415,
+                282,
+                580,
+                319
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 Calculus"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                333,
+                258,
+                352
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The definition of a derivative:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                367,
+                351,
+                383
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f ^ { \\prime } ( x ) = \\operatorname* { l i m } _ { h \\to 0 } { \\frac { f ( x + h ) - f ( x ) } { h } }\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1dddb0e9b5b46a7e702b3433abb4a5cd6376ba9ac9de210dfcbf52c5b8f81ac1.jpg"
+                }
+            },
+            "bbox": [
+                383,
+                377,
+                611,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A definite integral:"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                415,
+                294,
+                431
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\int _ { 0 } ^ { \\pi } \\sin ( x ) d x = 2\\tag{3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dcc129b15dff64dac92a2560e97a8592983ae9dc4c1611ea70aa4a67bd136793.jpg"
+                }
+            },
+            "bbox": [
+                429,
+                428,
+                568,
+                465
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 Linear Algebra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                481,
+                333,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A matrix and its determinant:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                515,
+                356,
+                531
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "A = { \\binom { a } { c } } \\ b \\quad \\operatorname* { d e t } ( A ) = a d - b c\\tag{4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ba6f91bf476ef8ba049e0782c8c8eae1fbcdb58a753a99f6776c1d79dbedd63e.jpg"
+                }
+            },
+            "bbox": [
+                364,
+                535,
+                632,
+                570
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 Probability"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                589,
+                289,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The normal distribution probability density function:"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                622,
+                534,
+                640
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f ( x ) = { \\frac { 1 } { \\sigma { \\sqrt { 2 \\pi } } } } e ^ { - { \\frac { 1 } { 2 } } \\left( { \\frac { x - \\mu } { \\sigma } } \\right) ^ { 2 } }\\tag{5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ed4d27e42a50f68890364de3cbf4c111b4944336b0c9bd54f55ca155a35fd8c7.jpg"
+                }
+            },
+            "bbox": [
+                400,
+                645,
+                594,
+                680
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 Series"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                696,
+                227,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Euler’s identity and an infinite series:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                731,
+                411,
+                747
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "e ^ { i \\pi } + 1 = 0\\tag{6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/edfcedb8eb05f9940d7d9a717f9ff273abdd0ebd354cef069cc5733b25cdce26.jpg"
+                }
+            },
+            "bbox": [
+                452,
+                747,
+                545,
+                763
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sum _ { n = 1 } ^ { \\infty } { \\frac { 1 } { n ^ { 2 } } } = { \\frac { \\pi ^ { 2 } } { 6 } }\\tag{7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b17b591994f9b2f877c049ecc13bacd842492f9931e4f0cd308ff6065cb244c0.jpg"
+                }
+            },
+            "bbox": [
+                446,
+                781,
+                549,
+                827
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 Inline Math"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                843,
+                297,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Here is some text with an inline formula, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E = m c ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", embedded directly in a sentence. Another inline example: the golden ratio "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textstyle \\varphi = { \\frac { 1 + { \\sqrt { 5 } } } { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "appears frequently in nature."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                877,
+                883,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample Math Document for Docling Testing"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                140,
+                753,
+                165
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                493,
+                935,
+                504,
+                948
+            ]
+        }
+    ]
+]
